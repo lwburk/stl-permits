@@ -3848,13 +3848,3 @@
   "ESTPROJECTCOST": 1000000.0000,
   "APPLICATIONDESCRIPTION": "SIDE IMPROVEMENTS <:FOR GOLF DRIVING RANGE"
 }
-{
-  "ADDRESS": "2823 NEBRASKA AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 23 2026 00:00:00",
-  "ISSUEDATE": "July, 03 2026 00:00:00",
-  "DAYSTOISSUE": 10,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "Interior remodel of an existing residential property, including kitchen and bathroom renovations, closet improvements, new interior finishes, and code-required life-safety upgrades (smoke and carbon monoxide detectors)."
-}
