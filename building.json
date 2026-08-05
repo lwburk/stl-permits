@@ -1,5 +1,5 @@
 {
-  "ADDRESS": "999 N 2ND ST",
+  "ADDRESS": "900-1098 LUMIERE PLACE BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "June, 22 2026 00:00:00",
@@ -49,6 +49,16 @@
   "APPLICATIONDESCRIPTION": "Replace Porch and add roof Per Plans"
 }
 {
+  "ADDRESS": "38 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 31 2026 00:00:00",
+  "ISSUEDATE": "July, 31 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "40'x40' tent setup for Blues at the Arch Event"
+}
+{
   "ADDRESS": "3254 JASPER PARK",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
@@ -57,6 +67,16 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 2000.0000,
   "APPLICATIONDESCRIPTION": "CONSTRUCT 6' WOOD FENCE"
+}
+{
+  "ADDRESS": "301 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "July, 24 2026 00:00:00",
+  "ISSUEDATE": "July, 31 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 427000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACING EXISTING HALON SYSTEMS IN 4 AREAS OF THE CONSERVATION WING WITH INERT GAS"
 }
 {
   "ADDRESS": "3 HOMELAND PL",
@@ -107,26 +127,6 @@
   "DAYSTOISSUE": 184,
   "ESTPROJECTCOST": 6000.0000,
   "APPLICATIONDESCRIPTION": "INSTALL (1) WALL SIGN ILLUM PER PLNS"
-}
-{
-  "ADDRESS": "2-298 WASHINGTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 31 2026 00:00:00",
-  "ISSUEDATE": "July, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "40'x40' tent setup for Blues at the Arch Event"
-}
-{
-  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "July, 24 2026 00:00:00",
-  "ISSUEDATE": "July, 31 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 427000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACING EXISTING HALON SYSTEMS IN 4 AREAS OF THE CONSERVATION WING WITH INERT GAS"
 }
 {
   "ADDRESS": "6500-648 MANCHESTER AV",
@@ -299,7 +299,7 @@
   "APPLICATIONDESCRIPTION": "INT ALT"
 }
 {
-  "ADDRESS": "700-30 CHESTNUT ST",
+  "ADDRESS": "701-27 MARKET ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 35,
   "APPLICATIONDATE": "July, 27 2026 00:00:00",
@@ -1069,7 +1069,7 @@
   "APPLICATIONDESCRIPTION": "EXT ALT <:ART INSTALLATION"
 }
 {
-  "ADDRESS": "700-30 CHESTNUT ST",
+  "ADDRESS": "701-27 MARKET ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "May, 08 2026 00:00:00",
@@ -1147,6 +1147,26 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 116000.0000,
   "APPLICATIONDESCRIPTION": "ROOM ADDITION"
+}
+{
+  "ADDRESS": "4969 BARNES JEWISH HOSPITAL PLZ",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 04 2026 00:00:00",
+  "ISSUEDATE": "July, 22 2026 00:00:00",
+  "DAYSTOISSUE": 79,
+  "ESTPROJECTCOST": 1200000.0000,
+  "APPLICATIONDESCRIPTION": "BJH 3rd Floor CSPD New Decon Sinks, New Ultrasonic Cleaners and new RO water system upgrade"
+}
+{
+  "ADDRESS": "4969 BARNES JEWISH HOSPITAL PLZ",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 04 2026 00:00:00",
+  "ISSUEDATE": "July, 22 2026 00:00:00",
+  "DAYSTOISSUE": 79,
+  "ESTPROJECTCOST": 300000.0000,
+  "APPLICATIONDESCRIPTION": "BJH EP renovation of CSPD MOD \"F\" sterile tray storage suite"
 }
 {
   "ADDRESS": "4727 PLOVER AV",
@@ -1259,16 +1279,6 @@
   "APPLICATIONDESCRIPTION": "SUBMITTING REVISION AGAIN WITH MORTAR TYPE AND TIE BACKS"
 }
 {
-  "ADDRESS": "2526 BALDWIN ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "July, 02 2026 00:00:00",
-  "ISSUEDATE": "July, 22 2026 00:00:00",
-  "DAYSTOISSUE": 20,
-  "ESTPROJECTCOST": 375000.0000,
-  "APPLICATIONDESCRIPTION": "Install sprinkler system per plans"
-}
-{
   "ADDRESS": "2362 LAWRENCE ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -1329,26 +1339,6 @@
   "APPLICATIONDESCRIPTION": "Install 6'H Vinyl Fence Per Plans"
 }
 {
-  "ADDRESS": "1 BARNES JEWISH HOSPITAL PLZ",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 04 2026 00:00:00",
-  "ISSUEDATE": "July, 22 2026 00:00:00",
-  "DAYSTOISSUE": 79,
-  "ESTPROJECTCOST": 1200000.0000,
-  "APPLICATIONDESCRIPTION": "BJH 3rd Floor CSPD New Decon Sinks, New Ultrasonic Cleaners and new RO water system upgrade"
-}
-{
-  "ADDRESS": "1 BARNES JEWISH HOSPITAL PLZ",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 04 2026 00:00:00",
-  "ISSUEDATE": "July, 22 2026 00:00:00",
-  "DAYSTOISSUE": 79,
-  "ESTPROJECTCOST": 300000.0000,
-  "APPLICATIONDESCRIPTION": "BJH EP renovation of CSPD MOD \"F\" sterile tray storage suite"
-}
-{
   "ADDRESS": "8564 DRURY LA",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -1359,7 +1349,7 @@
   "APPLICATIONDESCRIPTION": "Interior Fire Damage Repair Per Plans"
 }
 {
-  "ADDRESS": "701 CONVENTION PLAZA",
+  "ADDRESS": "700 COLE ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "July, 09 2026 00:00:00",
@@ -1367,6 +1357,26 @@
   "DAYSTOISSUE": 12,
   "ESTPROJECTCOST": 200000.0000,
   "APPLICATIONDESCRIPTION": "Stage build for AC/DC"
+}
+{
+  "ADDRESS": "700 CLARK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 07 2026 00:00:00",
+  "ISSUEDATE": "July, 21 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 200000.0000,
+  "APPLICATIONDESCRIPTION": "Stage Build for the Guns N' Roses concert"
+}
+{
+  "ADDRESS": "700 CLARK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 07 2026 00:00:00",
+  "ISSUEDATE": "July, 21 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 200000.0000,
+  "APPLICATIONDESCRIPTION": "Stage Build for Noah Kahan Concert"
 }
 {
   "ADDRESS": "6959 HANCOCK AV",
@@ -1439,7 +1449,7 @@
   "APPLICATIONDESCRIPTION": "6ft tall wood privacy fence. 122' linear feet. One- 4ft gate, one- 8ft gate."
 }
 {
-  "ADDRESS": "5272-86 WASHINGTON PL",
+  "ADDRESS": "530 UNION BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "July, 21 2026 00:00:00",
@@ -1447,6 +1457,16 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 2300000.0000,
   "APPLICATIONDESCRIPTION": "INT/EXT ALTS (STORM DAMAGE)"
+}
+{
+  "ADDRESS": "5295 WATERMAN BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 21 2026 00:00:00",
+  "ISSUEDATE": "July, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 750000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALTERATIONS (STORM DAMAGE)"
 }
 {
   "ADDRESS": "5175 ROSA AV",
@@ -1469,14 +1489,14 @@
   "APPLICATIONDESCRIPTION": "Installling a roof mounted 10.53kw solar system"
 }
 {
-  "ADDRESS": "5048 PENROSE ST",
+  "ADDRESS": "4969 BARNES JEWISH HOSPITAL PLZ",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "July, 20 2026 00:00:00",
+  "APPLICATIONDATE": "July, 01 2026 00:00:00",
   "ISSUEDATE": "July, 21 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "Modify existing wet pipe sprinkler system for new remodel."
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "Fire Sprinkler System Modifications"
 }
 {
   "ADDRESS": "4708 ADKINS AV",
@@ -1489,7 +1509,7 @@
   "APPLICATIONDESCRIPTION": "Foundation repair - installing 2 steel support posts on concrete footing and replacing a support beam"
 }
 {
-  "ADDRESS": "4545 FOREST PARK AV",
+  "ADDRESS": "4535 FOREST PARK AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 26,
   "APPLICATIONDATE": "July, 16 2026 00:00:00",
@@ -1509,6 +1529,16 @@
   "APPLICATIONDESCRIPTION": "Interior restoration and the restoration of the Front and Back Porches"
 }
 {
+  "ADDRESS": "4175 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "July, 20 2026 00:00:00",
+  "ISSUEDATE": "July, 21 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "Modify existing wet pipe sprinkler system for new remodel."
+}
+{
   "ADDRESS": "4102 HUMPHREY ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
@@ -1517,36 +1547,6 @@
   "DAYSTOISSUE": 34,
   "ESTPROJECTCOST": 7000.0000,
   "APPLICATIONDESCRIPTION": "Installing 150' of cedar privacy fence to enclose backyard."
-}
-{
-  "ADDRESS": "405 S BROADWAY",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 07 2026 00:00:00",
-  "ISSUEDATE": "July, 21 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 200000.0000,
-  "APPLICATIONDESCRIPTION": "Stage Build for the Guns N' Roses concert"
-}
-{
-  "ADDRESS": "405 S BROADWAY",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 07 2026 00:00:00",
-  "ISSUEDATE": "July, 21 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 200000.0000,
-  "APPLICATIONDESCRIPTION": "Stage Build for Noah Kahan Concert"
-}
-{
-  "ADDRESS": "404 UNION BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 21 2026 00:00:00",
-  "ISSUEDATE": "July, 21 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 750000.0000,
-  "APPLICATIONDESCRIPTION": "INT/EXT ALTERATIONS (STORM DAMAGE)"
 }
 {
   "ADDRESS": "4034 DETONTY ST",
@@ -1639,7 +1639,7 @@
   "APPLICATIONDESCRIPTION": "REPLACE DECK (REAR)"
 }
 {
-  "ADDRESS": "265 UNION BLVD",
+  "ADDRESS": "265-75 UNION BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "July, 21 2026 00:00:00",
@@ -1649,7 +1649,7 @@
   "APPLICATIONDESCRIPTION": "INT/EXT ALTERATIONS (STORM DAMAGE)"
 }
 {
-  "ADDRESS": "265 UNION BLVD",
+  "ADDRESS": "265-75 UNION BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "July, 21 2026 00:00:00",
@@ -1709,17 +1709,7 @@
   "APPLICATIONDESCRIPTION": "composite deck with aluminum railings"
 }
 {
-  "ADDRESS": "1 BARNES JEWISH HOSPITAL PLZ",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "July, 01 2026 00:00:00",
-  "ISSUEDATE": "July, 21 2026 00:00:00",
-  "DAYSTOISSUE": 20,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "Fire Sprinkler System Modifications"
-}
-{
-  "ADDRESS": "701 CONVENTION PLAZA",
+  "ADDRESS": "700 COLE ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "July, 06 2026 00:00:00",
@@ -1799,7 +1789,7 @@
   "APPLICATIONDESCRIPTION": "Installation/Construction of a small 15' x 51' building. To be mainly used for people entering the site."
 }
 {
-  "ADDRESS": "3700 FOUNDRY WAY",
+  "ADDRESS": "3700-20 FOREST PARK AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
   "APPLICATIONDATE": "February, 25 2026 00:00:00",
@@ -1817,6 +1807,16 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 80000.0000,
   "APPLICATIONDESCRIPTION": "Convert 4 Family Residential  to 2 Family Residential Per Plans"
+}
+{
+  "ADDRESS": "301 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 20 2026 00:00:00",
+  "ISSUEDATE": "July, 20 2026 00:00:00",
+  "DAYSTOISSUE": 91,
+  "ESTPROJECTCOST": 2720000.0000,
+  "APPLICATIONDESCRIPTION": "The Saint Louis Zoo is planning to renovate the existing open-air Stingrays at Caribbean Cove Exhibit pavilion.  We will add exterior walls and condition the space so that this experience can be available to our Forest Park campus guests year-round."
 }
 {
   "ADDRESS": "3000 LEE AV",
@@ -1837,16 +1837,6 @@
   "DAYSTOISSUE": 28,
   "ESTPROJECTCOST": 35000.0000,
   "APPLICATIONDESCRIPTION": "Interior repairs to kitchen, hall bath, and master bathroom from plumbing freeze damage. Initial emergency plumbing was done at time of loss. We are repairing the drywall, cabinets, vanities, and flooring which was affected. The Kitchen and hall bath on the main floor, and the master bath is on the second floor."
-}
-{
-  "ADDRESS": "2526 BALDWIN ST",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 01 2026 00:00:00",
-  "ISSUEDATE": "July, 20 2026 00:00:00",
-  "DAYSTOISSUE": 110,
-  "ESTPROJECTCOST": 4283000.0000,
-  "APPLICATIONDESCRIPTION": "NEW CONSTRUCTION"
 }
 {
   "ADDRESS": "1448 S GRAND BLVD",
@@ -1879,16 +1869,6 @@
   "APPLICATIONDESCRIPTION": "Install (1) Wall and (1) Projecting Sign, Illuminated, Per Plans"
 }
 {
-  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 20 2026 00:00:00",
-  "ISSUEDATE": "July, 20 2026 00:00:00",
-  "DAYSTOISSUE": 91,
-  "ESTPROJECTCOST": 2720000.0000,
-  "APPLICATIONDESCRIPTION": "The Saint Louis Zoo is planning to renovate the existing open-air Stingrays at Caribbean Cove Exhibit pavilion.  We will add exterior walls and condition the space so that this experience can be available to our Forest Park campus guests year-round."
-}
-{
   "ADDRESS": "6044 SOUTHWEST AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 36,
@@ -1907,6 +1887,16 @@
   "DAYSTOISSUE": 10,
   "ESTPROJECTCOST": 1500.0000,
   "APPLICATIONDESCRIPTION": "Replace section and stairs of rear porch that became rotten and unsafe"
+}
+{
+  "ADDRESS": "718 N GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 17 2026 00:00:00",
+  "ISSUEDATE": "July, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT AB573013"
 }
 {
   "ADDRESS": "5479 CLIFTON AV",
@@ -1957,16 +1947,6 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 5000.0000,
   "APPLICATIONDESCRIPTION": "ROOM ADDITION"
-}
-{
-  "ADDRESS": "3514 DELMAR BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 17 2026 00:00:00",
-  "ISSUEDATE": "July, 17 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT AB573013"
 }
 {
   "ADDRESS": "3411 HALLIDAY AV",
@@ -2159,14 +2139,14 @@
   "APPLICATIONDESCRIPTION": "Interior Alterations Per Plans"
 }
 {
-  "ADDRESS": "4257 CLAYTON AV",
-  "PROJECTTYPE": "New Const.",
+  "ADDRESS": "4300-400 SHAW AV",
+  "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 08 2026 00:00:00",
+  "APPLICATIONDATE": "July, 01 2026 00:00:00",
   "ISSUEDATE": "July, 16 2026 00:00:00",
-  "DAYSTOISSUE": 38,
-  "ESTPROJECTCOST": 33000.0000,
-  "APPLICATIONDESCRIPTION": "This project will consist of a fit-out of an existing 1st Floor space at the BJC Commons building, to accommodate new workstations and storage area for the data facilities group.  Scope will include a new partition construction to locate power and data receptacles and associated finishes for the new wall."
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 750000.0000,
+  "APPLICATIONDESCRIPTION": "This project adds a glass canopy on top of the existing dining trellis  at the Jack C. Taylor Visitor Center. The canopy addition (approx. 3,300 square feet) consists of a glazed canopy system, drainage system, and the addition of powered fans with controls."
 }
 {
   "ADDRESS": "4252 GERTRUDE AV",
@@ -2177,6 +2157,16 @@
   "DAYSTOISSUE": 7,
   "ESTPROJECTCOST": 3000.0000,
   "APPLICATIONDESCRIPTION": "Install standard 6ft wooden fence on north side of property backyard.  One 36 inch gate to front yard and one to alley"
+}
+{
+  "ADDRESS": "4101 CLAYTON AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 08 2026 00:00:00",
+  "ISSUEDATE": "July, 16 2026 00:00:00",
+  "DAYSTOISSUE": 38,
+  "ESTPROJECTCOST": 33000.0000,
+  "APPLICATIONDESCRIPTION": "This project will consist of a fit-out of an existing 1st Floor space at the BJC Commons building, to accommodate new workstations and storage area for the data facilities group.  Scope will include a new partition construction to locate power and data receptacles and associated finishes for the new wall."
 }
 {
   "ADDRESS": "3925 BOTANICAL AV",
@@ -2277,16 +2267,6 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 50000.0000,
   "APPLICATIONDESCRIPTION": "Interior Alterations Per Plans"
-}
-{
-  "ADDRESS": "2361 TOWER GROVE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 01 2026 00:00:00",
-  "ISSUEDATE": "July, 16 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 750000.0000,
-  "APPLICATIONDESCRIPTION": "This project adds a glass canopy on top of the existing dining trellis  at the Jack C. Taylor Visitor Center. The canopy addition (approx. 3,300 square feet) consists of a glazed canopy system, drainage system, and the addition of powered fans with controls."
 }
 {
   "ADDRESS": "2100-2 LILLY AV",
@@ -2569,6 +2549,26 @@
   "APPLICATIONDESCRIPTION": "Install 6ft privacy fence along the backyard."
 }
 {
+  "ADDRESS": "819 CHECKERBOARD SQUARE",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "June, 26 2026 00:00:00",
+  "ISSUEDATE": "July, 14 2026 00:00:00",
+  "DAYSTOISSUE": 18,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Modify Fire Sprinkler System Per Plans-Research North Elevator Penthouse"
+}
+{
+  "ADDRESS": "819 CHECKERBOARD SQUARE",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "June, 26 2026 00:00:00",
+  "ISSUEDATE": "July, 14 2026 00:00:00",
+  "DAYSTOISSUE": 18,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Modify Fire Sprinkler System Per Plans - Research North 3N Kjeldahl Lab"
+}
+{
   "ADDRESS": "6534 WALSH ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -2579,7 +2579,7 @@
   "APPLICATIONDESCRIPTION": "Construct a patio cover addition on rear of residence"
 }
 {
-  "ADDRESS": "6224 FORSYTH BLVD",
+  "ADDRESS": "6235 WYDOWN BLVD",
   "PROJECTTYPE": "New Const.",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "April, 27 2026 00:00:00",
@@ -2629,7 +2629,7 @@
   "APPLICATIONDESCRIPTION": "Install 8 piers"
 }
 {
-  "ADDRESS": "4484R WEST PINE BLVD",
+  "ADDRESS": "4484 WEST PINE BLVD",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
   "APPLICATIONDATE": "July, 14 2026 00:00:00",
@@ -2739,26 +2739,6 @@
   "APPLICATIONDESCRIPTION": "CHIMNEY REPAIR (HEALTHY HOMES)"
 }
 {
-  "ADDRESS": "1 CHECKERBOARD SQUARE",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "June, 26 2026 00:00:00",
-  "ISSUEDATE": "July, 14 2026 00:00:00",
-  "DAYSTOISSUE": 18,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Modify Fire Sprinkler System Per Plans-Research North Elevator Penthouse"
-}
-{
-  "ADDRESS": "1 CHECKERBOARD SQUARE",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "June, 26 2026 00:00:00",
-  "ISSUEDATE": "July, 14 2026 00:00:00",
-  "DAYSTOISSUE": 18,
-  "ESTPROJECTCOST": 8000.0000,
-  "APPLICATIONDESCRIPTION": "Modify Fire Sprinkler System Per Plans - Research North 3N Kjeldahl Lab"
-}
-{
   "ADDRESS": "8919-51 RIVERVIEW DR",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
@@ -2777,6 +2757,16 @@
   "DAYSTOISSUE": 31,
   "ESTPROJECTCOST": 33000.0000,
   "APPLICATIONDESCRIPTION": "Interior renovation"
+}
+{
+  "ADDRESS": "700-22 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "July, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 13 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 61000.0000,
+  "APPLICATIONDESCRIPTION": "add/relo 167 sprinkler heads"
 }
 {
   "ADDRESS": "6829-31 GRAVOIS AV",
@@ -2879,16 +2869,6 @@
   "APPLICATIONDESCRIPTION": "FOUNDATION REPAIR"
 }
 {
-  "ADDRESS": "5048 PENROSE ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 08 2026 00:00:00",
-  "ISSUEDATE": "July, 13 2026 00:00:00",
-  "DAYSTOISSUE": 66,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "Interior alterations to Room 141.  Installing a new door through and existing masonry corridor wall, the addition of new partition separating existing Music Classroom 141 and associated ceiling modifications and lighting."
-}
-{
   "ADDRESS": "5011 MURDOCH AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -2899,14 +2879,14 @@
   "APPLICATIONDESCRIPTION": "Kitchen  Remodel"
 }
 {
-  "ADDRESS": "501-15 N 7TH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "July, 06 2026 00:00:00",
+  "ADDRESS": "4969 BARNES JEWISH HOSPITAL PLZ",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 10 2026 00:00:00",
   "ISSUEDATE": "July, 13 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 61000.0000,
-  "APPLICATIONDESCRIPTION": "add/relo 167 sprinkler heads"
+  "DAYSTOISSUE": 33,
+  "ESTPROJECTCOST": 54000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Alterations - East Pavilion Neurology, Suite 11480  Per Plans"
 }
 {
   "ADDRESS": "4906 EMERSON AV",
@@ -2967,6 +2947,16 @@
   "DAYSTOISSUE": 20,
   "ESTPROJECTCOST": 1500.0000,
   "APPLICATIONDESCRIPTION": "Insatlling 6' tall pressure treated pine privacy fence at back alley line of property."
+}
+{
+  "ADDRESS": "4175 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 08 2026 00:00:00",
+  "ISSUEDATE": "July, 13 2026 00:00:00",
+  "DAYSTOISSUE": 66,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "Interior alterations to Room 141.  Installing a new door through and existing masonry corridor wall, the addition of new partition separating existing Music Classroom 141 and associated ceiling modifications and lighting."
 }
 {
   "ADDRESS": "4103 WYOMING ST",
@@ -3057,16 +3047,6 @@
   "DAYSTOISSUE": 67,
   "ESTPROJECTCOST": 0.0000,
   "APPLICATIONDESCRIPTION": "This is a permit amendment application for pre-existing permit #AB 583780. <:The revised scope is a no cost change to the previously submitted scope of work cost."
-}
-{
-  "ADDRESS": "1 BARNES JEWISH HOSPITAL PLZ",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 10 2026 00:00:00",
-  "ISSUEDATE": "July, 13 2026 00:00:00",
-  "DAYSTOISSUE": 33,
-  "ESTPROJECTCOST": 54000.0000,
-  "APPLICATIONDESCRIPTION": "Interior Alterations - East Pavilion Neurology, Suite 11480  Per Plans"
 }
 {
   "ADDRESS": "912 BELLERIVE BLVD",
@@ -3559,16 +3539,6 @@
   "APPLICATIONDESCRIPTION": "add/relo 21 sprinkler heads"
 }
 {
-  "ADDRESS": "500 N 13TH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "June, 12 2026 00:00:00",
-  "ISSUEDATE": "July, 08 2026 00:00:00",
-  "DAYSTOISSUE": 26,
-  "ESTPROJECTCOST": 60000.0000,
-  "APPLICATIONDESCRIPTION": "Renovation of existing 2 and 3rd floors to 26 apartment units, installing new fire alarm devices in new units, replacing existing fire alarm panel.  Floors 1, 4-8 to remain no work included for those floors"
-}
-{
   "ADDRESS": "426-30 S 15TH ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 34,
@@ -3629,6 +3599,16 @@
   "APPLICATIONDESCRIPTION": "CONSTRUCT DECK (REAR)"
 }
 {
+  "ADDRESS": "1228-36 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "June, 12 2026 00:00:00",
+  "ISSUEDATE": "July, 08 2026 00:00:00",
+  "DAYSTOISSUE": 26,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "Renovation of existing 2 and 3rd floors to 26 apartment units, installing new fire alarm devices in new units, replacing existing fire alarm panel.  Floors 1, 4-8 to remain no work included for those floors"
+}
+{
   "ADDRESS": "5434 NATURAL BRIDGE AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -3669,7 +3649,7 @@
   "APPLICATIONDESCRIPTION": "construct 6' wood fence (4120-4124 Blaine Av)"
 }
 {
-  "ADDRESS": "3900 ILLINOIS AV",
+  "ADDRESS": "3900-2 ILLINOIS AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "July, 07 2026 00:00:00",
@@ -3677,6 +3657,16 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 12000.0000,
   "APPLICATIONDESCRIPTION": "INT ALTERATIONS"
+}
+{
+  "ADDRESS": "301 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "June, 22 2026 00:00:00",
+  "ISSUEDATE": "July, 07 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "Addendum to permit # PB-583765-24, no additional cost,  Changes to the electrical layout in electrical room."
 }
 {
   "ADDRESS": "1533 GIESEKING LA",
@@ -3697,16 +3687,6 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 50000.0000,
   "APPLICATIONDESCRIPTION": "int/ext alterations"
-}
-{
-  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "June, 22 2026 00:00:00",
-  "ISSUEDATE": "July, 07 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Addendum to permit # PB-583765-24, no additional cost,  Changes to the electrical layout in electrical room."
 }
 {
   "ADDRESS": "700 MARKET ST",
@@ -3739,6 +3719,16 @@
   "APPLICATIONDESCRIPTION": "CONSTRUCT DECK (REAR)"
 }
 {
+  "ADDRESS": "5454 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 06 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT"
+}
+{
   "ADDRESS": "5034-42 WASHINGTON PL",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -3747,16 +3737,6 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 14000.0000,
   "APPLICATIONDESCRIPTION": "INT ALTS (BATHROOM ONLY)"
-}
-{
-  "ADDRESS": "4976-86 ROSALIE ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 06 2026 00:00:00",
-  "ISSUEDATE": "July, 06 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "EXT ALT"
 }
 {
   "ADDRESS": "4385 MARYLAND AV",
@@ -3847,4 +3827,184 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 1000000.0000,
   "APPLICATIONDESCRIPTION": "SIDE IMPROVEMENTS <:FOR GOLF DRIVING RANGE"
+}
+{
+  "ADDRESS": "6017 LEONA ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 24 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "remove 79' of fence and install 79' of 6' tall cedar privacy fence in backyard"
+}
+{
+  "ADDRESS": "5324 WEST AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 03 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 35000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR & EXTERIOR RENOVATION"
+}
+{
+  "ADDRESS": "5300-2 UNION BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 12 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 52,
+  "ESTPROJECTCOST": 113000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE EXISTING ROOOF, GUTTERS, TUCKPOINTING"
+}
+{
+  "ADDRESS": "5229 PATTISON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "July, 29 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "2 car carport"
+}
+{
+  "ADDRESS": "5032 BANCROFT AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 24 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "REMOVE EXISTING FENCE AND INSTALL 82' OF 6' TALL VINYL PRIVACY FENCE IN BACKYARD"
+}
+{
+  "ADDRESS": "4146 TOENGES AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "August, 03 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACING RETAINING WALL (SIDE/REAR)"
+}
+{
+  "ADDRESS": "4128 LEXINGTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 03 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "INT / EXT RENOVATION"
+}
+{
+  "ADDRESS": "4100 BECK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 09 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 25,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALLATION OF APX 56 LINEAR FEET OF FENCE<:INSTALLATION OF ONE CUSTOM FABRICATED GATE<:- FITS INTO 48\" OPENING<:- PANIC BAR ON INSIDE FOR EGRESS<:- BLACK FINISH WIRE MESH WELDED TO INSIDE ( PREVENTS REACHING THROUGH TO OPEN DOOR)<:- LOCKED ACCESS HANDLE ON OUTSIDE OF GATE<:<:- 6' HEIGHT<:- MONTAGE STEEL<:- 3 RAILS<:- CLASSIC TOP aka SPEAR TOP FENCE<:- FLUSH BOTTOM<:- ALL FENCE POSTS ANCHORED IN CONCRETE FOOTINGS<:- 2 GATE POSTS PLATE WELDED AND ATTACHED TO CONCRETE WITH STAINLESS BOLTS<:- BLACK POWDER COATED FINISH"
+}
+{
+  "ADDRESS": "3900 CLEVELAND AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 30 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 40000.0000,
+  "APPLICATIONDESCRIPTION": "Remove two interior walls and install structural beams, finish with drywall and paint."
+}
+{
+  "ADDRESS": "3700-20 FOREST PARK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 12850.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL (1) ILLUMINATED WALL SIGN PER PLANS"
+}
+{
+  "ADDRESS": "3433 MCKEAN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 23 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 11,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Design and installation of new solar panel array to roof of existing carport of single family residence."
+}
+{
+  "ADDRESS": "2119-21 UTAH ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 07 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 27,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "Replace a joist that was damaged in one section by sistering a board of the same size next to it and attach using 4 hot dipped galvanized 3\" nails every 16\" in a zag zag pattern. This is a double joist and only one board needs to be replaced."
+}
+{
+  "ADDRESS": "1910 VIRGINIA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 18 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 77,
+  "ESTPROJECTCOST": 90000.0000,
+  "APPLICATIONDESCRIPTION": "Remodel of the carriage house"
+}
+{
+  "ADDRESS": "1854-8 RUSSELL BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 24 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "installing 98' of 6' tall cedar privacy fence."
+}
+{
+  "ADDRESS": "1719 EDWARDS ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 14 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 79000.0000,
+  "APPLICATIONDESCRIPTION": "CONVERT 1 FAM TO 2 FAMILY"
+}
+{
+  "ADDRESS": "1317-25 N GARRISON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 16 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 18,
+  "ESTPROJECTCOST": 780000.0000,
+  "APPLICATIONDESCRIPTION": "The Scope of work is the repair of the existing 6 unit residential building that was caught on fire, along with 2 rear deck that were also damaged, the units to be renovated and repaired to match existing."
+}
+{
+  "ADDRESS": "1130 NEWHOUSE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "August, 03 2026 00:00:00",
+  "ISSUEDATE": "August, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW 5' WOOD PRIVACY FENCE"
+}
+{
+  "ADDRESS": "2055 ALLEN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 27 2026 00:00:00",
+  "ISSUEDATE": "August, 02 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 450.0000,
+  "APPLICATIONDESCRIPTION": "Partial privacy horizontal fence blocking alley way from backyard"
 }
