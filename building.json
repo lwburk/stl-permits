@@ -1869,26 +1869,6 @@
   "APPLICATIONDESCRIPTION": "The Saint Louis Zoo is planning to renovate the existing open-air Stingrays at Caribbean Cove Exhibit pavilion.  We will add exterior walls and condition the space so that this experience can be available to our Forest Park campus guests year-round."
 }
 {
-  "ADDRESS": "6044 SOUTHWEST AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "July, 02 2026 00:00:00",
-  "ISSUEDATE": "July, 18 2026 00:00:00",
-  "DAYSTOISSUE": 16,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Build 1 wood deck atop existing porch roof"
-}
-{
-  "ADDRESS": "4729 MILENTZ AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "July, 08 2026 00:00:00",
-  "ISSUEDATE": "July, 18 2026 00:00:00",
-  "DAYSTOISSUE": 10,
-  "ESTPROJECTCOST": 1500.0000,
-  "APPLICATIONDESCRIPTION": "Replace section and stairs of rear porch that became rotten and unsafe"
-}
-{
   "ADDRESS": "6000 JAMIESON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 34,
