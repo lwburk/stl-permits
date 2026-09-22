@@ -2658,13 +2658,3 @@
   "ESTPROJECTCOST": 1000.0000,
   "APPLICATIONDESCRIPTION": "Retrofitting an existing fire detection system after the customer remodeled"
 }
-{
-  "ADDRESS": "4059-61 BOTANICAL AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 11 2026 00:00:00",
-  "ISSUEDATE": "August, 22 2026 00:00:00",
-  "DAYSTOISSUE": 11,
-  "ESTPROJECTCOST": 120000.0000,
-  "APPLICATIONDESCRIPTION": "Complete gut renovation of existing 4-family building"
-}
