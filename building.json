@@ -1,4 +1,154 @@
 {
+  "ADDRESS": "7324 LEONA ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 32000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT REAR DECK"
+}
+{
+  "ADDRESS": "6056 BISHOPS PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 24,
+  "APPLICATIONDATE": "August, 18 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 36,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "New inground fiberglass pool and surrounding decking installation."
+}
+{
+  "ADDRESS": "5854 ETZEL AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Retaining Wall / 4 ft High Wood Fence Ext. Alt. Per Plans"
+}
+{
+  "ADDRESS": "5603 WATERMAN BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 120000.0000,
+  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
+}
+{
+  "ADDRESS": "5603 WATERMAN BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 122000.0000,
+  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
+}
+{
+  "ADDRESS": "5226 GRAVOIS AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 600.0000,
+  "APPLICATIONDESCRIPTION": "Temp Door for entry way damaged from vehicle damage"
+}
+{
+  "ADDRESS": "5109 WATERMAN BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Int Alt - Kitchen and Bath Per Plans"
+}
+{
+  "ADDRESS": "4934 PERSHING PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 04 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 50,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "Re roof full house, tearing off all shingles, ridges, starter, flashings, ice and water, synthetic etc. Replacing any bad wood.<:Install new shingles Malarkey Vista brilliant black, ridge cap, starter, ice and waterm synthetic, etc."
+}
+{
+  "ADDRESS": "4354 ELLENWOOD AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "Foundation repair - installing 2 Helitech Support Columns and a secondary support beam underneath the sunroom"
+}
+{
+  "ADDRESS": "4108 BOTANICAL AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "4056 BOTANICAL AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 22 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 24733.0000,
+  "APPLICATIONDESCRIPTION": "Foundation repair - installing 4 helical piers to the foundation (2 inside and 2 outside) as well as 1 steel support post in the basement"
+}
+{
+  "ADDRESS": "249 UNION BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 08 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 433000.0000,
+  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system. 25 year manufacturing NDL warranty."
+}
+{
+  "ADDRESS": "2016-8 S JEFFERSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 20 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 156,
+  "ESTPROJECTCOST": 200000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALTS (FIRE DAMAGE/NEW GARAGE/NEW FENCE)"
+}
+{
+  "ADDRESS": "1242 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "September, 09 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "Installing 140LF of 8'H white hamilton fencing."
+}
+{
+  "ADDRESS": "1005 MCCAUSLAND AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 10 2026 00:00:00",
+  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "DAYSTOISSUE": 13,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "Reinforcing for a new piece of mechanical equipment."
+}
+{
   "ADDRESS": "8035-9 N BROADWAY",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -2837,74 +2987,4 @@
   "DAYSTOISSUE": 1,
   "ESTPROJECTCOST": 0.0000,
   "APPLICATIONDESCRIPTION": "Erect- 2 Tents  for special event concert  from 9/14/26 thru 9/17/26."
-}
-{
-  "ADDRESS": "5636 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 25 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 600000.0000,
-  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT BP- 1841-26<:STORM DAMAGE"
-}
-{
-  "ADDRESS": "4311 DEWEY AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "August, 25 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
-}
-{
-  "ADDRESS": "4044 SHREVE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 25 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 120000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
-}
-{
-  "ADDRESS": "2741 THOMAS ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "August, 18 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 111000.0000,
-  "APPLICATIONDESCRIPTION": "Clean Agent System - Fire Alarm"
-}
-{
-  "ADDRESS": "2741 THOMAS ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "August, 18 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 98000.0000,
-  "APPLICATIONDESCRIPTION": "FIRE ALARM SYSTEM"
-}
-{
-  "ADDRESS": "2519 ST LOUIS AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 25 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "RE ROOFING"
-}
-{
-  "ADDRESS": "120 E GRAND BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 13 2026 00:00:00",
-  "ISSUEDATE": "August, 25 2026 00:00:00",
-  "DAYSTOISSUE": 12,
-  "ESTPROJECTCOST": 250000.0000,
-  "APPLICATIONDESCRIPTION": "Install platform to connect to the existing steel of the cooling water towers."
 }
