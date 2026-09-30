@@ -1,4 +1,124 @@
 {
+  "ADDRESS": "7122 ST JAMES SQUARE",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 31 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 28,
+  "ESTPROJECTCOST": 31000.0000,
+  "APPLICATIONDESCRIPTION": "House damage after water leak on second floor.  Kitchen torn out and will need to be rebuilt."
+}
+{
+  "ADDRESS": "7062 LINDENWOOD PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "August, 27 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 32,
+  "ESTPROJECTCOST": 2489.9400,
+  "APPLICATIONDESCRIPTION": "Installing 6 LF of 4'H Aluminium fence with 1 one aluminium gate and replacing one wood gate. Removing old fence"
+}
+{
+  "ADDRESS": "5604 THOLOZAN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 25 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Install five (5) steel piers on the front and right-side foundation"
+}
+{
+  "ADDRESS": "4969 WABADA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Renovation -  3 Baths Per Plans"
+}
+{
+  "ADDRESS": "4110 BLAINE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 35000.0000,
+  "APPLICATIONDESCRIPTION": "Int Alt. Finish Basement Per Plans"
+}
+{
+  "ADDRESS": "4067 MIAMI ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 07 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Demolition of the detached garage only at 4067 Miami Street, St. Louis MO.  Not building garage replacement. Including pictures of garage with google earth view, and site plan with calculations and specification.  Please let us know if you need anything else."
+}
+{
+  "ADDRESS": "3277 ALFRED AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "EXT/ INT ALT <:PORCH SLABS"
+}
+{
+  "ADDRESS": "3120 GURNEY AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "August, 26 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 33,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "Removing 87LF fence and installing 78 LF of 6'H horizontal cedar wood fencing stained black with 1 4ft gate and 1 5ft gate"
+}
+{
+  "ADDRESS": "2323 MACKLIND AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE REAR DECK"
+}
+{
+  "ADDRESS": "2206 KEOKUK ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 38000.0000,
+  "APPLICATIONDESCRIPTION": "Flat roof replacement, swapping from torchdown to TPO. Masonry repair on parapet walls."
+}
+{
+  "ADDRESS": "1217 DOLMAN ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 16 2026 00:00:00",
+  "ISSUEDATE": "September, 28 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 29000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALTS"
+}
+{
+  "ADDRESS": "4537 TOWER GROVE PL",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 08 2026 00:00:00",
+  "ISSUEDATE": "September, 27 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "NEW DETACHED CARRIAGE HOUSE <:LEVEL 1 - 491 SF 2 CAR GARAGE & 400 SF YARD STORE<:LEVEL 2 - 400 SF STORAGE <:977 GROSS SF ON LEVEL 1 & 450 GROSS SF LEVEL 2 = 1,427 SF TOTAL"
+}
+{
   "ADDRESS": "42 WESTMORELAND PL",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
