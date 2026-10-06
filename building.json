@@ -79,6 +79,16 @@
   "APPLICATIONDESCRIPTION": "Convert the existing 6-foot chain link fence along the alley to a 6-foot wood privacy fence. The chain link fabric, top rail, and hardware will be removed. The existing steel line posts will remain and be adapted to carry a wood frame: horizontal 2x4 pressure-treated rails (top, middle, and bottom) will be fastened to each post with galvanized post-to-rail brackets, and vertical wood pickets will be attached to the rails. The finished side of the fence will face the alley.<:<:Gate Posts: Two (2) new 4-inch nominal Schedule 40 galvanized steel posts will be installed to support the replacement gate. Each post will be embedded a minimum of 36 inches below finished grade and set in a concrete bell footing measuring 12 inches in diameter at grade and flaring to 16 inches at the base. Concrete will have a minimum compressive strength of 3,000 psi. The top of each footing will be crowned to shed water away from the post. Posts will be set plumb and braced until the concrete has cured, and the gate will not be hung until curing is complete. The gate will swing inward onto the property and will not open into the alley."
 }
 {
+  "ADDRESS": "2820 GOODFELLOW BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 13 2026 00:00:00",
+  "ISSUEDATE": "September, 30 2026 00:00:00",
+  "DAYSTOISSUE": 48,
+  "ESTPROJECTCOST": 19000.0000,
+  "APPLICATIONDESCRIPTION": "Addendum to PB588131-25<:SOW:<:THE PROPOSED PROJECT INCLUDES PLACING EQUIPMENT<:CABINETS, ON PROPOSED CONCRETE PAD(s) INSIDE A 12' X 25'<:GROUND SPACE WITHIN THE EXISTING COMPOUND, AND<:PLACING NEW ANTENNAS ON A PROPOSED PLATFORM<:MOUNTED TO THE EXISTING TOWER."
+}
+{
   "ADDRESS": "2807-9 MARCUS AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -2359,12 +2369,352 @@
   "APPLICATIONDESCRIPTION": "INSTALL POOL"
 }
 {
-  "ADDRESS": "4556 OAKLAND AV",
+  "ADDRESS": "807-9 GEYER AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 11 2026 00:00:00",
-  "ISSUEDATE": "September, 05 2026 00:00:00",
-  "DAYSTOISSUE": 25,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "Remodeling downstairs bathroom. Discovered the downstairs shower leaked shortly after purchasing the home in 2024."
+  "APPLICATIONDATE": "August, 07 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 56,
+  "ESTPROJECTCOST": 600000.0000,
+  "APPLICATIONDESCRIPTION": "Interior renovation (and 3rd floor steel egress fire escape) to convert existing office buildings into multi-tenant apartment units."
+}
+{
+  "ADDRESS": "5872 WALSH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 02 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 18000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW CARPORT"
+}
+{
+  "ADDRESS": "5640 NEOSHO ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 07 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 87,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Replacing about a 10' x 24' area of the roof, as shown in design, and adding New Gabled Roof areas to allow for better use of and more room in the 4th bedroom and a possible 2nd bathroom addition."
+}
+{
+  "ADDRESS": "5632 DEVONSHIRE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "September, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 24,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing 4' chain link fence and install 185' of 6' tall white Everguard privacy fence with (2) gates."
+}
+{
+  "ADDRESS": "5603 WATERMAN BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 136000.0000,
+  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
+}
+{
+  "ADDRESS": "5603 WATERMAN BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 93000.0000,
+  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
+}
+{
+  "ADDRESS": "5478 CLEMENS PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "September, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "Tearing down 38 LF of 6'H wood fence and installing 121 LF new 6'H white vinyl."
+}
+{
+  "ADDRESS": "3955 WENZLICK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 02 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' REAR AND SIDE WOOD FENCE"
+}
+{
+  "ADDRESS": "3410 OREGON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 22 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 120000.0000,
+  "APPLICATIONDESCRIPTION": "interior and exterior renovation to two story existing residence"
+}
+{
+  "ADDRESS": "3214-20 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 18 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 300000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALTERATIONS"
+}
+{
+  "ADDRESS": "3205 LAFAYETTE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 24,
+  "APPLICATIONDATE": "September, 29 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 142000.0000,
+  "APPLICATIONDESCRIPTION": "INGROUND SWIMING POOL"
+}
+{
+  "ADDRESS": "2915 ST VINCENT AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 02 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 8' VINYL FENCE"
+}
+{
+  "ADDRESS": "2438 MCNAIR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "August, 18 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 45,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "New Traditional Fabric awning spanning 43 feet long, 3 feet high and projecting 4 feet off the South side of the Blues City Deli restaurant. fabricated and installed by Lawrence Fabric and professionally engineered."
+}
+{
+  "ADDRESS": "2010 WYOMING ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 02 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 35000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL GARAGE PORT"
+}
+{
+  "ADDRESS": "1124-8 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 02 2026 00:00:00",
+  "DAYSTOISSUE": 49,
+  "ESTPROJECTCOST": 250000.0000,
+  "APPLICATIONDESCRIPTION": "Footings, Foundations, Interior Slab & CMU"
+}
+{
+  "ADDRESS": "946 MARYVILLE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 29 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "Tear out and replace existing front porch steps 5 (5’x1’) with new black aluminum handrails on each side<:(8ft total)"
+}
+{
+  "ADDRESS": "800-26 CHESTNUT ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 123000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Remodel"
+}
+{
+  "ADDRESS": "6462-6 OAKLAND AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 10 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 26000.0000,
+  "APPLICATIONDESCRIPTION": "Foundation repair - installing 13 resistance piers to the inside of the basement"
+}
+{
+  "ADDRESS": "6415 VILLA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "full roof replacement redecking"
+}
+{
+  "ADDRESS": "5742 TERRY AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 01 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1300.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FRONT & BACK STAIRS"
+}
+{
+  "ADDRESS": "5606 PAGE BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 66,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Interior and exterior renovations incluidng plumbing, electrical and HVAC work, new interior walls, windows and doors."
+}
+{
+  "ADDRESS": "5326-8 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid: Buildings 05, 06, 07, 08, 09, and 10<:60Mil Versico Mechanically Fastened TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls.<:- Inspect decking and clean roofing surface.*<:- Install ½” Woodfiber Roof Board over entire roof surface, Mechanically fastened<:to deck.<:- Install Versico 60mil TPO membrane over entire field, mechanically fastened;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with Cav-Grip III adhesive; color to match field membrane.<:- Install termination bar at perimeter and at gutter edge.<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Install new 6\" box flange gutters with 3x4 downspouts,<:- All dumpsters provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis.<:- Versico Roofing System will be covered by a 20 year NDL (No Dollar Limit) full<:system warranty and a 5 year Farha Roofing KC, LLC workmanship warranty."
+}
+{
+  "ADDRESS": "5320 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid: Buildings 05, 06, 07, 08, 09, and 10<:60Mil Versico Mechanically Fastened TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls.<:- Inspect decking and clean roofing surface.*<:- Install ½” Woodfiber Roof Board over entire roof surface, Mechanically fastened<:to deck.<:- Install Versico 60mil TPO membrane over entire field, mechanically fastened;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with Cav-Grip III adhesive; color to match field membrane.<:- Install termination bar at perimeter and at gutter edge.<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Install new 6\" box flange gutters with 3x4 downspouts,<:- All dumpsters provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis.<:- Versico Roofing System will be covered by a 20 year NDL (No Dollar Limit) full<:system warranty and a 5 year Farha Roofing KC, LLC workmanship warranty."
+}
+{
+  "ADDRESS": "5316 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid: Buildings 05, 06, 07, 08, 09, and 10<:60Mil Versico Mechanically Fastened TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls.<:- Inspect decking and clean roofing surface.*<:- Install ½” Woodfiber Roof Board over entire roof surface, Mechanically fastened<:to deck.<:- Install Versico 60mil TPO membrane over entire field, mechanically fastened;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with Cav-Grip III adhesive; color to match field membrane.<:- Install termination bar at perimeter and at gutter edge.<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Install new 6\" box flange gutters with 3x4 downspouts,<:- All dumpsters provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis.<:- Versico Roofing System will be covered by a 20 year NDL (No Dollar Limit) full<:system warranty and a 5 year Farha Roofing KC, LLC workmanship warranty."
+}
+{
+  "ADDRESS": "5310 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid: Buildings 05, 06, 07, 08, 09, and 10<:60Mil Versico Mechanically Fastened TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls.<:- Inspect decking and clean roofing surface.*<:- Install ½” Woodfiber Roof Board over entire roof surface, Mechanically fastened<:to deck.<:- Install Versico 60mil TPO membrane over entire field, mechanically fastened;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with Cav-Grip III adhesive; color to match field membrane.<:- Install termination bar at perimeter and at gutter edge.<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Install new 6\" box flange gutters with 3x4 downspouts,<:- All dumpsters provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis.<:- Versico Roofing System will be covered by a 20 year NDL (No Dollar Limit) full<:system warranty and a 5 year Farha Roofing KC, LLC workmanship warranty."
+}
+{
+  "ADDRESS": "5306 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid: Buildings 05, 06, 07, 08, 09, and 10<:60Mil Versico Mechanically Fastened TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls.<:- Inspect decking and clean roofing surface.*<:- Install ½” Woodfiber Roof Board over entire roof surface, Mechanically fastened<:to deck.<:- Install Versico 60mil TPO membrane over entire field, mechanically fastened;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with Cav-Grip III adhesive; color to match field membrane.<:- Install termination bar at perimeter and at gutter edge.<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Install new 6\" box flange gutters with 3x4 downspouts,<:- All dumpsters provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis.<:- Versico Roofing System will be covered by a 20 year NDL (No Dollar Limit) full<:system warranty and a 5 year Farha Roofing KC, LLC workmanship warranty."
+}
+{
+  "ADDRESS": "5300-2 S COMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid: Buildings 05, 06, 07, 08, 09, and 10<:60Mil Versico Mechanically Fastened TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls.<:- Inspect decking and clean roofing surface.*<:- Install ½” Woodfiber Roof Board over entire roof surface, Mechanically fastened<:to deck.<:- Install Versico 60mil TPO membrane over entire field, mechanically fastened;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with Cav-Grip III adhesive; color to match field membrane.<:- Install termination bar at perimeter and at gutter edge.<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Install new 6\" box flange gutters with 3x4 downspouts,<:- All dumpsters provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis.<:- Versico Roofing System will be covered by a 20 year NDL (No Dollar Limit) full<:system warranty and a 5 year Farha Roofing KC, LLC workmanship warranty."
+}
+{
+  "ADDRESS": "500-20 DEBALIVIERE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 18 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 13,
+  "ESTPROJECTCOST": 184000.0000,
+  "APPLICATIONDESCRIPTION": "Roof repair"
+}
+{
+  "ADDRESS": "3733 MAFFITT AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 01 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "WXT/ INT ALT"
+}
+{
+  "ADDRESS": "3418 MERAMEC ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 25 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Alterations  \" Demolition Only\"  Per Plans"
+}
+{
+  "ADDRESS": "3157 PARC RIDGE LA",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 01 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 19000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT <:NEW WINDOW OPENING"
+}
+{
+  "ADDRESS": "2933 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 17 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 45,
+  "ESTPROJECTCOST": 38000.0000,
+  "APPLICATIONDESCRIPTION": "Improvements to the parking lot and removing the entrance from Kingshighway"
+}
+{
+  "ADDRESS": "2860 INDIANA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 01 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 30,
+  "ESTPROJECTCOST": 70000.0000,
+  "APPLICATIONDESCRIPTION": "Frame new partition walls to create a finished Rec. Room, open Office, and partition off an unfinished Utility/Storage room."
+}
+{
+  "ADDRESS": "2804 INDIANA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "Rear addition stabilization. Install three steel piers beneath the rear block addition to permanently stabilize the foundation and halt further settlement."
+}
+{
+  "ADDRESS": "1001-3 S GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 01 2026 00:00:00",
+  "DAYSTOISSUE": 48,
+  "ESTPROJECTCOST": 12661000.0000,
+  "APPLICATIONDESCRIPTION": "Addendum to Permit NO. PB-583828-24<:<:Interior fitout to Level 7 of new SSM Cardinal Glennon Children's Hospital. Originally designed as a shell floor, recently designed as a floor for labor and delivery, ante-partum and post-partum, and women's evaluation unit."
 }
