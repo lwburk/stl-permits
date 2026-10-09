@@ -2219,154 +2219,174 @@
   "APPLICATIONDESCRIPTION": "EMERSON CENTRAL FIELDS IN FOREST PARK (BALLOON RACE)"
 }
 {
-  "ADDRESS": "6818 HANCOCK AV",
+  "ADDRESS": "801-35 CHOUTEAU AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "2ND FLOOR ROOM ADDITION"
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 30,
+  "ESTPROJECTCOST": 4000000.0000,
+  "APPLICATIONDESCRIPTION": "Shell space/ addition for future HVAC units."
 }
 {
-  "ADDRESS": "6224 FORSYTH BLVD",
+  "ADDRESS": "6957 CLAYTON RD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 11300.0000,
+  "APPLICATIONDESCRIPTION": "Install six (6) steel piers"
+}
+{
+  "ADDRESS": "6739 OLEATHA AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "August, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 250000.0000,
-  "APPLICATIONDESCRIPTION": "Install a new fire sprinkler system in Innovation Hub expansion & existing Dubar House per NFPA 13 and local AHJ."
-}
-{
-  "ADDRESS": "5300 ORIOLE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "INT/EXT ALTS"
+  "ESTPROJECTCOST": 2700.0000,
+  "APPLICATIONDESCRIPTION": "NEW 6' PRIVACY WOOD FENCE"
 }
 {
-  "ADDRESS": "4541 CHOUTEAU AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
+  "ADDRESS": "5928 MCPHERSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "Full Roof Replacement"
+}
+{
+  "ADDRESS": "5823 KINGWOOD DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "Install Detached Garage Per Plans"
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT <:WATER DAMAGE REPAIR"
 }
 {
-  "ADDRESS": "4520 HARRIS AV",
+  "ADDRESS": "5617 WINONA AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
+  "APPLICATIONDATE": "October, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "CONCRETE SIDEWALK CARPORT FOUNDATION"
+  "ESTPROJECTCOST": 70000.0000,
+  "APPLICATIONDESCRIPTION": "INT & EXT ALT"
 }
 {
-  "ADDRESS": "4489 LACLEDE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 27 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 12,
-  "ESTPROJECTCOST": 63000.0000,
-  "APPLICATIONDESCRIPTION": "Interior Alteration - Kitchen and Bath Updates"
-}
-{
-  "ADDRESS": "4320 FOREST PARK AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 27 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 43,
-  "ESTPROJECTCOST": 89000.0000,
-  "APPLICATIONDESCRIPTION": "Interior renovation converting offices into exam rooms."
-}
-{
-  "ADDRESS": "4233 HUMPHREY ST",
+  "ADDRESS": "5560 WATERMAN BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "September, 02 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "Addendum to BP-1226-26 Supporting documents for existing building permit"
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 36,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Interior alteration of existing condominium Unit 1W. Add a second full bathroom within the existing unit footprint; renovate existing bathroom and kitchen; modify/remove non-load-bearing interior partitions as shown on architectural plans; install associated drywall, backer board and interior finishes; provide bathroom exhaust ventilation to exterior. No structural/load-bearing modifications and no window replacement or other exterior façade alterations. Plumbing and electrical work will be performed under separate trade permits by City-licensed contractors. Work per stamped architectural plans prepared by ReDESiGN Architecture & Co."
 }
 {
-  "ADDRESS": "4001 MCDONALD AV",
+  "ADDRESS": "5127 WILSON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT DETACHED GARAGE"
+}
+{
+  "ADDRESS": "5102 ROSA AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 24 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 15,
+  "APPLICATIONDATE": "September, 17 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 47000.0000,
+  "APPLICATIONDESCRIPTION": "Bathroom remodel; remove sink, tub, lighting, fixtures, and flooring. Replace with new materials in existing locations."
+}
+{
+  "ADDRESS": "5039 DELMAR BLVD",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 91,
+  "ESTPROJECTCOST": 800000.0000,
+  "APPLICATIONDESCRIPTION": "Tear Down Existing Building hit by 05/16/25 Tornado. Build new building for Mortuary."
+}
+{
+  "ADDRESS": "4448-70 FOREST PARK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "August, 31 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 38,
+  "ESTPROJECTCOST": 5850.0000,
+  "APPLICATIONDESCRIPTION": "Install new wall sign to existing electric."
+}
+{
+  "ADDRESS": "4309 SCHIRMER ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 05 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 3,
   "ESTPROJECTCOST": 16000.0000,
-  "APPLICATIONDESCRIPTION": "Foundation repair - installing 3 resistance piers inside the foundation and 2 resistance piers outside the foundation for a total of 5 resistance piers"
+  "APPLICATIONDESCRIPTION": "Foundation repair - installing 9 resistance piers to the inside of the basement"
 }
 {
-  "ADDRESS": "3966-8 DETONTY ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
+  "ADDRESS": "2920 MILTON BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 8,
+  "ESTPROJECTCOST": 22000.0000,
+  "APPLICATIONDESCRIPTION": "1. Fabricate and Install 50 SF custom 16 oz architectural copper bay window roof<:2. Fabricate and install approximately 75 LF custom 6'' half round 16 oz copper gutters<:3. Install clay coated round downspouts complete with elbows, straps, and accessories<:4. Fabricate and install custom 16 oz copper chimney flashing system<:5. Fabricate and install custom 16 oz copper step flashing"
+}
+{
+  "ADDRESS": "2730-4 CHEROKEE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "September, 04 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 4,
-  "ESTPROJECTCOST": 23000.0000,
-  "APPLICATIONDESCRIPTION": "Install approximately 175 linear feet of 6' Tall Horizontal Privacy fence<:<:Install one 8' wide double swing gate, double gate includes drop rods<:Install three 4' wide swing gates<:Will use 6x6 posts for all gate posts<:<:Fence to be constructed to the following specifications:<:     * 4” x 4” x 8’ Treated Pine Posts, 6' O.C.<:     * 2” x 4” x 8’ Treated Pine Rails ran vertically to reinforce pickets<:     Alternating pickets, 1/3 of each section to have air gap, spacing to be determined<:     * 5/4 x 2.25” x 12’ Cedar Pickets<:     * 5/4 x 3” x 12’ Cedar Pickets<:     * 5/4 x 5.5” x 12’ Cedar Pickets<:<:Posts along retaining wall be set in simpson post bases, all other posts set in concrete"
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 185000.0000,
+  "APPLICATIONDESCRIPTION": "Create two new rear-facing residential units behind 2730 and 2732 Cherokee."
 }
 {
-  "ADDRESS": "3416 UTAH ST",
+  "ADDRESS": "2343-5 MENARD ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR DEMOLITION"
+  "APPLICATIONDATE": "October, 05 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 22000.0000,
+  "APPLICATIONDESCRIPTION": "Foundation repair - installing 6 helical piers to the foundation (3 inside and 3 outside)"
 }
 {
-  "ADDRESS": "3126-36 LOCUST ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 01 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 60000.0000,
-  "APPLICATIONDESCRIPTION": "Installation of a grid-tied, roof-mounted 10.560 kW DC (PV) / 23.000 kW AC (PV) / 40.5 kWh BESS solar array to include battery storage. We are utilizing Tesla Powerwall 3's for the inverter and the battery storage. There is an additional Tesla Expansion Unit for battery storage only. The specs for the Powerwall 3 will be for the inverter, the battery functionality, and the expansion unit. Please reach out with any questions!"
-}
-{
-  "ADDRESS": "2777 HERMITAGE AV",
+  "ADDRESS": "2000-2 S 12TH ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 75000.0000,
-  "APPLICATIONDESCRIPTION": "INT/ EXT ALTS"
+  "APPLICATIONDATE": "September, 04 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 47000.0000,
+  "APPLICATIONDESCRIPTION": "Repaving Commercial Parking Lot w/ Lighting and replacing Curbs Per Plans<:<:added the plans"
 }
 {
-  "ADDRESS": "100 N BROADWAY",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "August, 21 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 18,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Fire Sprinkler System Modifications"
-}
-{
-  "ADDRESS": "10 PORTLAND PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 24,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 08 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 145000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL POOL"
+  "ADDRESS": "200-20 N BROADWAY",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 24,
+  "ESTPROJECTCOST": 158000.0000,
+  "APPLICATIONDESCRIPTION": "Lobby renovation<:Revision based on Asa's questions on 9/24/26 4:02pm."
 }
 {
   "ADDRESS": "816 WILMINGTON AV",
