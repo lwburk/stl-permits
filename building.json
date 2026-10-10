@@ -2129,94 +2129,134 @@
   "APPLICATIONDESCRIPTION": "Install lift pit per EI #7378630"
 }
 {
-  "ADDRESS": "7019 MITCHELL AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 13 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 27,
-  "ESTPROJECTCOST": 200000.0000,
-  "APPLICATIONDESCRIPTION": "Addition on back half of home"
-}
-{
-  "ADDRESS": "5437 PERNOD AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "August, 12 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 28,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "Installation of 20' x 22' garage, 2x4 construction, LP Smart Siding, Asphalt shingles. Customers existing garage and concrete will be removed. New concrete will be monolithic with continuous footing 30\" below grade."
-}
-{
-  "ADDRESS": "3834 RAINOR CT",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 09 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "INT ALTS (KITCHEN REMODEL)"
-}
-{
-  "ADDRESS": "3136 RUTGER ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 11000.0000,
-  "APPLICATIONDESCRIPTION": "flat roof replacement-both levels"
-}
-{
-  "ADDRESS": "3121 IOWA AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 20 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 20,
-  "ESTPROJECTCOST": 70000.0000,
-  "APPLICATIONDESCRIPTION": "Interior & Exterior Repair Work<:<:Complete full gut rehabilitation of the existing property in accordance with the attached plans and specifications. Work will include interior demolition and removal of damaged or outdated materials, new interior framing as required, installation of new windows where needed, interior painting, and complete renovation of interior spaces.<:<:Provide new MEP systems, including electrical, some plumbing, and HVAC, with all work completed to applicable building codes and the attached plans. <:<:Exterior work will include rebuilding damaged masonry walls and tuck-pointing masonry where needed. Repair and restore the existing fence as required.<:<:Demolish the existing rear yard parking area and install a new two car parking pad, including necessary site preparation and grading.<:<:All work will to be completed in a safe, code compliant, and workmanlike manner in accordance with the attached plans."
-}
-{
-  "ADDRESS": "2030 SALISBURY ST",
+  "ADDRESS": "8421 REILLY AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 09 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 6' HT WOOD FENCE (PAVILLION/FARMERS MARKET)"
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Install 183' of 6' tall galvanized chain link fence."
 }
 {
-  "ADDRESS": "1563 LOUISVILLE AV",
+  "ADDRESS": "8419 REILLY AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 70' OF 6' TALL GALVANIZED CHAIN LINK"
+}
+{
+  "ADDRESS": "8417 REILLY AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 57' OF 6' TALL GALVANIZED CHAIN LINK"
+}
+{
+  "ADDRESS": "751 BAYARD AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 31 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 7295.0700,
-  "APPLICATIONDESCRIPTION": "Foundation Settlement (Piers) & Basement Wall Repair (Anchors)"
+  "APPLICATIONDATE": "September, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 25,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "THIS PROJECT CONSISTS OF THE RENOVATION AND CONVERSION OF AN<:EXISTING TWO-FAMILY DWELLING INTO A THREE-UNIT MULTI-FAMILY<:BUILDING. WORK INCLUDES: INTERIOR RENOVATION TO CREATE THREE<:DWELLING UNITS, ONE PER LEVEL, EACH WITH TWO MEANS OF EGRESS;<:CONVERSION OF THE EXISTING BASEMENT TO HABITABLE SPACE; NEW<:1-HR FIRE SEPARATIONS BETWEEN DWELLING UNITS AND AT THE COMMON<:STAIR ENCLOSURE; MASONRY FACADE REPAIR AND TUCKPOINTING;<:IN-KIND REPLACEMENT OF EXISTING WINDOWS AND DOORS; NEW ROOFING;<:NEW SITE WALKWAYS AND OFF-ALLEY PARKING; AND NEW MECHANICAL,<:ELECTRICAL, AND PLUMBING SYSTEMS THROUGHOUT."
 }
 {
-  "ADDRESS": "1242 HAMPTON AV",
+  "ADDRESS": "6050 POINTVIEW LA",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "June, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 93,
-  "ESTPROJECTCOST": 9995.0000,
-  "APPLICATIONDESCRIPTION": "NEW WALL SIGNS FOR 7 BREW"
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 05 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 17000.0000,
+  "APPLICATIONDESCRIPTION": "10 x 12 composite deck and stairs"
 }
 {
-  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
+  "ADDRESS": "600-28 S NEWSTEAD AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 148,
+  "ESTPROJECTCOST": 1115000.0000,
+  "APPLICATIONDESCRIPTION": "Project will involve site restoration and grading, site utilities and updated site lighting following the demolition of the BJC Clayton Avenue Building.  Site work will also include pavement patching at existing parking lot area and installation of a perimeter site fence."
+}
+{
+  "ADDRESS": "5935 HILGARD PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Exterior Alterations Front Porch Per Plans"
+}
+{
+  "ADDRESS": "5622 PERNOD AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "REMOVE EXISTING FENCE AND INSTALL 60' OF 6' TALL CEDAR PRIVACY FENCE IN THE BACKYARD."
+}
+{
+  "ADDRESS": "3522-4 OREGON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT REAR DECK"
+}
+{
+  "ADDRESS": "3418 MERAMEC ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS ADDENDUM TO (AB-8380-26) (BP-2752-26)"
+}
+{
+  "ADDRESS": "2617 IOWA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT 2-STORY REAR DECK"
+}
+{
+  "ADDRESS": "1625 FOREST AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "NEW SINGLE FAMILY RES <:FOUNDATION ONLY"
+}
+{
+  "ADDRESS": "1005-11 N 18TH ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 09 2026 00:00:00",
-  "ISSUEDATE": "September, 09 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "EMERSON CENTRAL FIELDS IN FOREST PARK (BALLOON RACE)"
+  "APPLICATIONDATE": "October, 05 2026 00:00:00",
+  "ISSUEDATE": "October, 09 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 98000.0000,
+  "APPLICATIONDESCRIPTION": "Installation of grid-tied, roof mounted solar PV system. The total system is 9.24 kW DC / 7.98 kW AC split among the 6 electrical services within the 1 apartment building."
 }
 {
   "ADDRESS": "801-35 CHOUTEAU AV",
@@ -2307,6 +2347,16 @@
   "DAYSTOISSUE": 21,
   "ESTPROJECTCOST": 47000.0000,
   "APPLICATIONDESCRIPTION": "Bathroom remodel; remove sink, tub, lighting, fixtures, and flooring. Replace with new materials in existing locations."
+}
+{
+  "ADDRESS": "5057 WESTMINSTER PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 07 2026 00:00:00",
+  "ISSUEDATE": "October, 08 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "Chesterfield Fencing to replace the 6ft back property fence line with 8ft fencing as well as a 10 ft wide, double door gate centered within that fence line. Gate will match the height of the new 8ft fence that is replacing the 6ft fence."
 }
 {
   "ADDRESS": "5039 DELMAR BLVD",
@@ -2935,7 +2985,7 @@
   "APPLICATIONDATE": "September, 23 2026 00:00:00",
   "ISSUEDATE": "October, 02 2026 00:00:00",
   "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 136000.0000,
+  "ESTPROJECTCOST": 93000.0000,
   "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
 }
 {
@@ -2945,7 +2995,7 @@
   "APPLICATIONDATE": "September, 23 2026 00:00:00",
   "ISSUEDATE": "October, 02 2026 00:00:00",
   "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 93000.0000,
+  "ESTPROJECTCOST": 136000.0000,
   "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
 }
 {
