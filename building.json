@@ -1779,6 +1779,136 @@
   "APPLICATIONDESCRIPTION": "Remove old fence and replace with new one"
 }
 {
+  "ADDRESS": "8207 VIRGINIA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 22 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 113,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Complete plumbing <:<:Complete electrical <:<:Drywall mud tape and paint <:<:Complete bath and half <:<:Complete kitchen <:<:Repair exterior soffit, gutter, facia <:<:Pour single car driveway<:<:Chain link fence in back yard"
+}
+{
+  "ADDRESS": "5710 CLEMENS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW 6' WOOD PRIVACY FENCE SIDE-REAR"
+}
+{
+  "ADDRESS": "5565 CATES AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 183,
+  "ESTPROJECTCOST": 250000.0000,
+  "APPLICATIONDESCRIPTION": "New two unit townhome"
+}
+{
+  "ADDRESS": "5250 MURDOCH AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Construct Carport Per Plans"
+}
+{
+  "ADDRESS": "5001 MACKLIND AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Repair Roof, Floor & Wall Joist after Fire Damage - \"Structural Only\"."
+}
+{
+  "ADDRESS": "4972 THOLOZAN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 1200.0000,
+  "APPLICATIONDESCRIPTION": "Replacing chain link fence with a PVC Vinyl privacy fence on 2 sides of the property.  One side is along the backyard a facing public sidewalk along side of house. The other section is along the alley and includes a gate."
+}
+{
+  "ADDRESS": "4403-15 ANDERSON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE REAR WOOD DECK"
+}
+{
+  "ADDRESS": "3827 JUNIATA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 80000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT ADDITION AT REAR AND ADD POWDER BATH UPSTAIRS"
+}
+{
+  "ADDRESS": "3501 MCCAUSLAND AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 12 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "New Deck Construction"
+}
+{
+  "ADDRESS": "3138 CLIFTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "Construct Garage Port Per Plans"
+}
+{
+  "ADDRESS": "3003 INDIANA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT WOOD CARPORT"
+}
+{
+  "ADDRESS": "1959 ALICE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT 2 STORY DECK"
+}
+{
+  "ADDRESS": "1309 DOLMAN ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 70000.0000,
+  "APPLICATIONDESCRIPTION": "Construct Rear Deck Per Plans"
+}
+{
   "ADDRESS": "8106-14 N BROADWAY",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -2785,7 +2915,7 @@
   "APPLICATIONDATE": "September, 23 2026 00:00:00",
   "ISSUEDATE": "October, 02 2026 00:00:00",
   "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 93000.0000,
+  "ESTPROJECTCOST": 136000.0000,
   "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
 }
 {
@@ -2795,7 +2925,7 @@
   "APPLICATIONDATE": "September, 23 2026 00:00:00",
   "ISSUEDATE": "October, 02 2026 00:00:00",
   "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 136000.0000,
+  "ESTPROJECTCOST": 93000.0000,
   "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
 }
 {
