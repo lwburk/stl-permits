@@ -1629,154 +1629,184 @@
   "APPLICATIONDESCRIPTION": "Erect (1) - 40'x 66' tent from 9/16/26 - 9/21/26 for The Forest Park Balloon Glow and Race Per Plans"
 }
 {
-  "ADDRESS": "999 N 2ND ST",
+  "ADDRESS": "7900-48 VAN BUREN ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "August, 26 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 11000.0000,
-  "APPLICATIONDESCRIPTION": "Add and relocate fire sprinklers"
-}
-{
-  "ADDRESS": "912 DOVER PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "INT/EXT ALTS"
-}
-{
-  "ADDRESS": "7001 LANSDOWNE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "September, 09 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 2903.0000,
-  "APPLICATIONDESCRIPTION": "Installation of one awning recover and one new awning"
-}
-{
-  "ADDRESS": "6455 MURDOCH AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 27 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 110,
-  "ESTPROJECTCOST": 60000.0000,
-  "APPLICATIONDESCRIPTION": "Full reroof. The job consists of removing the existing slate tile roof down to a clean substrate, with a new substrate(roof deck) to be installed if it is found to be out of code or manufacturer recommendations. Ice and water barrier shall be used to local and manufacturer specifications recommendations. This project will then be installed with a new brava synthetic roof system, with all manufacturer recommendations followed. The 1.5 EPDM roof covering will also be replaced with like and kind at this time."
-}
-{
-  "ADDRESS": "6201 PERNOD AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 11 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 3,
-  "ESTPROJECTCOST": 260.0000,
-  "APPLICATIONDESCRIPTION": "Fence Install"
-}
-{
-  "ADDRESS": "5812-26 S GRAND BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "August, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 20,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "1 WALL SIGN - ILLUM <:1 WINDOW SIGN - NON ILLUM"
-}
-{
-  "ADDRESS": "5801 WILSON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 01 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 13,
-  "ESTPROJECTCOST": 137000.0000,
-  "APPLICATIONDESCRIPTION": "146 roof mounted solar panels"
-}
-{
-  "ADDRESS": "4202 MCCAUSLAND AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' HT WOOD FENCE (SIDE/REAR)"
-}
-{
-  "ADDRESS": "4103 FLORA PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 11 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 3,
-  "ESTPROJECTCOST": 6000.0000,
-  "APPLICATIONDESCRIPTION": "Remove existing fence and install 101' of 6' tall cedar privacy fence."
-}
-{
-  "ADDRESS": "3905-7 BOTANICAL AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 10 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 4,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 1,
   "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "We are replacing 7 windows & re-wrapping 3 windows with new metal trim coil between 2 apartments. 3905 #F is getting 4 windows replaced & the 3 windows being re-wrapped are located here as well. 3907 #E is getting 3 windows replaced."
+  "APPLICATIONDESCRIPTION": "US Durum Mill 5445-26 Project scope is to install additions onto existing pre-action sprinkler systems."
 }
 {
-  "ADDRESS": "3850 BOWEN ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 11 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 3,
+  "ADDRESS": "6471 WANDA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 02 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Jones kitchen remodel"
+}
+{
+  "ADDRESS": "6289 MARMADUKE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 12 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "remove and replace full re deck of roof with cdx plywood 5/8 and shingles with new iko dynasty shingles, ridge cap and starter. replace all new synthetic underlayment, ice and water and flashings that the roof needs. New ventilation replacement and drip edge."
+}
+{
+  "ADDRESS": "625 S SKINKER BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 07 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 80000.0000,
+  "APPLICATIONDESCRIPTION": "Kitchen Remodel replacing flooring, cabinets, and countertops.  Remove a portion of Engineer approved non load bearing wall."
+}
+{
+  "ADDRESS": "6226 REBER PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 12 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Install posts for foundation support per engineers report and drawings (already Submitted), attached is the site plan where they are going."
+}
+{
+  "ADDRESS": "5522 ROSA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 13 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 1,
   "ESTPROJECTCOST": 17000.0000,
-  "APPLICATIONDESCRIPTION": "Install 170' of 4' tall black, 3 rail, flush top and bottom, steel fencing around backyard including 2 gates."
+  "APPLICATIONDESCRIPTION": "Remove the existing rear deck at 5522 Rosa Avenue and construct a new 14' × 12' deck with 4'-wide stairs in the location shown on the submitted plans. Work includes supporting foundations, posts, beams, joists, decking, guards, handrails, and connections to the existing residence, in accordance with the approved plans and applicable City of St. Louis codes."
 }
 {
-  "ADDRESS": "3529 HARTFORD ST",
+  "ADDRESS": "5305 GILSON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Replace Front Porch Per Plans"
+}
+{
+  "ADDRESS": "4905-39 CHILDRENS PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "September, 22 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 22,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "REWORK EXISTING FIRE SPRINKLER SYSTEM PER PLANS"
+}
+{
+  "ADDRESS": "4901 BARNES JEWISH HOSPITAL PLZ",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "October, 12 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 300000.0000,
+  "APPLICATIONDESCRIPTION": "WUSM MCMILLAN HOSPITAL RENOVATION"
+}
+{
+  "ADDRESS": "4810-24 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Recover 2 awnings"
+}
+{
+  "ADDRESS": "4651-65 MARYLAND AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "June, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 127,
+  "ESTPROJECTCOST": 9850.0000,
+  "APPLICATIONDESCRIPTION": "Exterior Corner Blade Sign"
+}
+{
+  "ADDRESS": "4523 MARYLAND AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS - DECK"
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT AB-582214 (ADD 2ND FL DECK)"
 }
 {
-  "ADDRESS": "3173-5 MORGAN FORD RD",
-  "PROJECTTYPE": "Addition",
+  "ADDRESS": "3994 BOWEN ST",
+  "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 40X20 TENT (PERMANENT)"
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 140000.0000,
+  "APPLICATIONDESCRIPTION": "kitchen and bathroom remodel. Kitchen remove all cabinets, appliances, flooring, fixtures, & lighting. replace with new in existing locations. Bathroom remove shower, toilet, sink, flooring, lighting, and fixtures. Replace with new in existing locations."
 }
 {
-  "ADDRESS": "2649-51 59TH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
+  "ADDRESS": "3719 JUNIATA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 26000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS  REAR DECK"
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "KITCHEN & BACK DECK RENO"
 }
 {
-  "ADDRESS": "2014-6 NORTH MARKET ST",
+  "ADDRESS": "3626-30 S GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALTS - temporary and permanent repair of vehicular accident"
+}
+{
+  "ADDRESS": "2520-44 N GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR DEMO & ROOF ONLY<:SEPARATE PERMIT NEEDED FOR INTERIOR RENOVATION"
+}
+{
+  "ADDRESS": "2241 CUGGIONO CT",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "August, 27 2026 00:00:00",
-  "ISSUEDATE": "September, 14 2026 00:00:00",
-  "DAYSTOISSUE": 18,
+  "APPLICATIONDATE": "October, 12 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 2,
   "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Remove old fence and replace with new one"
+  "APPLICATIONDESCRIPTION": "Extending fence in backyard closer to the property line, removal of existing fence and installation of gate along new fence."
+}
+{
+  "ADDRESS": "2029 MARCONI AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "Recover 3 awnings, 1 with signage"
 }
 {
   "ADDRESS": "8207 VIRGINIA AV",
@@ -1839,6 +1869,16 @@
   "APPLICATIONDESCRIPTION": "Replacing chain link fence with a PVC Vinyl privacy fence on 2 sides of the property.  One side is along the backyard a facing public sidewalk along side of house. The other section is along the alley and includes a gate."
 }
 {
+  "ADDRESS": "4810-24 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 22,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "Recover awning"
+}
+{
   "ADDRESS": "4403-15 ANDERSON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 36,
@@ -1847,6 +1887,26 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 11000.0000,
   "APPLICATIONDESCRIPTION": "REPLACE REAR WOOD DECK"
+}
+{
+  "ADDRESS": "4127-9 W FLORISSANT AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 1200.0000,
+  "APPLICATIONDESCRIPTION": "Install business signage for Adelaide Market at 4129 W Florissant Ave, as shown on the submitted sign drawings and mounting details."
+}
+{
+  "ADDRESS": "3928-56 S BROADWAY",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "September, 01 2026 00:00:00",
+  "ISSUEDATE": "October, 13 2026 00:00:00",
+  "DAYSTOISSUE": 42,
+  "ESTPROJECTCOST": 1800.0000,
+  "APPLICATIONDESCRIPTION": "fabricate and install new non-lit  aluminum face for existing wall sign"
 }
 {
   "ADDRESS": "3827 JUNIATA ST",
