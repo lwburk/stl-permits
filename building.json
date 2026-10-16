@@ -1489,146 +1489,6 @@
   "APPLICATIONDESCRIPTION": "Interior Alterations Per Plans"
 }
 {
-  "ADDRESS": "919 LEBANON DR",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 15 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Erect a 30' x 90\" for Labanese Festival  Event from 9/18/26 - 9/20/26 Per Plans"
-}
-{
-  "ADDRESS": "6416 VILLA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 15 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1250.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE DECK STAIRS"
-}
-{
-  "ADDRESS": "6404 SUTHERLAND AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 01 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 8000.0000,
-  "APPLICATIONDESCRIPTION": "25' Interior waterproofing system with 15 mil wall liner guided into an open channel, sump basin + pump. Discharge to surface in front yard"
-}
-{
-  "ADDRESS": "6127 LINDELL BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "August, 31 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 160000.0000,
-  "APPLICATIONDESCRIPTION": "Detached Garage/Carport"
-}
-{
-  "ADDRESS": "5949 DR MARTIN LUTHER KING DR",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 25,
-  "APPLICATIONDATE": "August, 27 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 65000.0000,
-  "APPLICATIONDESCRIPTION": "Modular Block Retaining Wall for New Construction of Ground Up mixed use Retail and Apartments."
-}
-{
-  "ADDRESS": "4235 FLORA PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "September, 15 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "RPLACE GARAGE ROOF"
-}
-{
-  "ADDRESS": "3852 BOWEN ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 11 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 4,
-  "ESTPROJECTCOST": 1439.7000,
-  "APPLICATIONDESCRIPTION": "Install 1 - 4' tall black chain link walk gate and 15' of 4' tall black, flush top and bottom, 3 rail steel fence at back of property."
-}
-{
-  "ADDRESS": "3300-30 RUTGER ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "(2) 20x80 Tents for SLU Career Fairs"
-}
-{
-  "ADDRESS": "2626-30 CHEROKEE ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "August, 07 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 39,
-  "ESTPROJECTCOST": 3600.0000,
-  "APPLICATIONDESCRIPTION": "Install a sign attached to the exterior facade. It will say “Hairpin Collective” the name of the business."
-}
-{
-  "ADDRESS": "22 MANHATTAN MEWS",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 31 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 242000.0000,
-  "APPLICATIONDESCRIPTION": "EXT ALT"
-}
-{
-  "ADDRESS": "200 S BROADWAY",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 02 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 44,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "install mesh banner on side of parking garage. image on banner will not have words- will be of a landscape (water and trees). please route to Dave Price."
-}
-{
-  "ADDRESS": "1720 SUBLETTE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 04 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 42,
-  "ESTPROJECTCOST": 75000.0000,
-  "APPLICATIONDESCRIPTION": "General improvements to accept new tenants."
-}
-{
-  "ADDRESS": "1315-9 CHEROKEE ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 245000.0000,
-  "APPLICATIONDESCRIPTION": "Replacing an existing EPDM roof with a PVC roof. No structural changes."
-}
-{
-  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 15 2026 00:00:00",
-  "ISSUEDATE": "September, 15 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Erect (1) - 40'x 66' tent from 9/16/26 - 9/21/26 for The Forest Park Balloon Glow and Race Per Plans"
-}
-{
   "ADDRESS": "7900-48 VAN BUREN ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 26,
@@ -2692,21 +2552,21 @@
   "ADDRESS": "5441-5 HAMPTON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "July, 29 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 550.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 2 SIGNS (1 WALL MURAL & 1 PROJECTING)"
-}
-{
-  "ADDRESS": "5441-5 HAMPTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
   "APPLICATIONDATE": "July, 08 2026 00:00:00",
   "ISSUEDATE": "October, 05 2026 00:00:00",
   "DAYSTOISSUE": 89,
   "ESTPROJECTCOST": 2000.0000,
   "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUM) ELEC"
+}
+{
+  "ADDRESS": "5441-5 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "July, 29 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 68,
+  "ESTPROJECTCOST": 550.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 2 SIGNS (1 WALL MURAL & 1 PROJECTING)"
 }
 {
   "ADDRESS": "5433-75 CABANNE AV",
