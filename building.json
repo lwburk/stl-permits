@@ -1249,36 +1249,6 @@
   "APPLICATIONDESCRIPTION": "Tearing down existing garage, and building a new one the same size (moving it back just a few feet is all)"
 }
 {
-  "ADDRESS": "801-35 CHOUTEAU AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "August, 12 2026 00:00:00",
-  "ISSUEDATE": "September, 18 2026 00:00:00",
-  "DAYSTOISSUE": 37,
-  "ESTPROJECTCOST": 151000.0000,
-  "APPLICATIONDESCRIPTION": "Lab Remodel"
-}
-{
-  "ADDRESS": "1800-932 MARKET ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 18 2026 00:00:00",
-  "ISSUEDATE": "September, 18 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "3 Tents being installed for the Polar Express 2026"
-}
-{
-  "ADDRESS": "1-5 N BROADWAY",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 18 2026 00:00:00",
-  "ISSUEDATE": "September, 18 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "40x66 tent being installed at Kiener Plaza"
-}
-{
   "ADDRESS": "8415 REILLY AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
