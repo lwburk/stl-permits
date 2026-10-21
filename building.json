@@ -1239,14 +1239,204 @@
   "APPLICATIONDESCRIPTION": "Renovation of Level 0 to expand Ponce Health Science to provide additional office space and instruction area."
 }
 {
-  "ADDRESS": "3317 BENDICK AV",
+  "ADDRESS": "7900-48 VAN BUREN ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 09 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 11,
+  "ESTPROJECTCOST": 53000.0000,
+  "APPLICATIONDESCRIPTION": "Pouring a concrete pad in a gravel lot for a new generator."
+}
+{
+  "ADDRESS": "7339 GRAVOIS AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "August, 14 2026 00:00:00",
-  "ISSUEDATE": "September, 20 2026 00:00:00",
-  "DAYSTOISSUE": 37,
-  "ESTPROJECTCOST": 35000.0000,
-  "APPLICATIONDESCRIPTION": "Tearing down existing garage, and building a new one the same size (moving it back just a few feet is all)"
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 16 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 16000.0000,
+  "APPLICATIONDESCRIPTION": "we will install a privacy fence 3\" inside the property line at the back of the property."
+}
+{
+  "ADDRESS": "7217 PENNSYLVANIA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS"
+}
+{
+  "ADDRESS": "7113 CORONADO AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 06 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 106,
+  "ESTPROJECTCOST": 900.0000,
+  "APPLICATIONDESCRIPTION": "Wood Privacy Fence"
+}
+{
+  "ADDRESS": "6747 WALSH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "October, 15 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 14000.0000,
+  "APPLICATIONDESCRIPTION": "Installation of a 45' long retaining wall using rockwood 6\" natural retaining wall blocks in the gray color.<:Retaining wall to have maximum height of 2.5' and taper down to 1' near brick wall towards alley. Includes regrading of<:soil from rear tree to alley to help create a level area without retaining wall."
+}
+{
+  "ADDRESS": "6614 NEOSHO ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FENCE W 4' ALUMINUM"
+}
+{
+  "ADDRESS": "6500-648 MANCHESTER AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "October, 05 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "83.3sf Wall Sign"
+}
+{
+  "ADDRESS": "5411 DELOR ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS (FINISH ATTIC,BEDROOM BATHROOM & OFFICE)"
+}
+{
+  "ADDRESS": "5046 WINONA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 16 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "Removal of three chimney and replacement with correct roofing vents/shingle roofing system"
+}
+{
+  "ADDRESS": "5004-20 UNION BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "September, 10 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 40,
+  "ESTPROJECTCOST": 6500.0000,
+  "APPLICATIONDESCRIPTION": "Install LED Channel Letters on Backer for Citi Trends"
+}
+{
+  "ADDRESS": "4823 TERRACE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW 6' HT WOOD PRIVACY FENCE (REAR) & RETAINING WALL(FRONT)"
+}
+{
+  "ADDRESS": "4403 DR MARTIN LUTHER KING DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 17 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 64,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "Front Facade effort"
+}
+{
+  "ADDRESS": "325 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "September, 25 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 25,
+  "ESTPROJECTCOST": 120000.0000,
+  "APPLICATIONDESCRIPTION": "repalce fire sprinkler piping on 3rd floor parking garage  1 for 1 pipe replacement"
+}
+{
+  "ADDRESS": "2811 CLARK AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 350000.0000,
+  "APPLICATIONDESCRIPTION": "Roof replacement"
+}
+{
+  "ADDRESS": "2628-36 PARK AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 02 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 18,
+  "ESTPROJECTCOST": 42000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Remodel of kitchen cabinets"
+}
+{
+  "ADDRESS": "2318 TEXAS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' WOOD FENCE"
+}
+{
+  "ADDRESS": "2303 ARSENAL ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "INT DEMO REMOVE BACK PORCH ONLY"
+}
+{
+  "ADDRESS": "2022 SENATE ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 24000.0000,
+  "APPLICATIONDESCRIPTION": "Installation of a grid tied roof mounted 3.96kW DC, 3.14kW AC PV system."
+}
+{
+  "ADDRESS": "1253 HAMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 32000.0000,
+  "APPLICATIONDESCRIPTION": "Installing a new 60' tall flagpole at the Steak N Shake to display the American Flag."
+}
+{
+  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 20 2026 00:00:00",
+  "ISSUEDATE": "October, 20 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "30x30 tent setup on 10/25/26"
 }
 {
   "ADDRESS": "721-9 ACADEMY AV",
@@ -3180,16 +3370,6 @@
 }
 {
   "ADDRESS": "1214-26 S VANDEVENTER AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 11 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 24,
-  "ESTPROJECTCOST": 115000.0000,
-  "APPLICATIONDESCRIPTION": "Repair existing masonry wall"
-}
-{
-  "ADDRESS": "1214-26 S VANDEVENTER AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 26,
   "APPLICATIONDATE": "September, 18 2026 00:00:00",
@@ -3197,6 +3377,16 @@
   "DAYSTOISSUE": 17,
   "ESTPROJECTCOST": 25000.0000,
   "APPLICATIONDESCRIPTION": "REMOVE FIRE SPRINKLER SYSTEM"
+}
+{
+  "ADDRESS": "1214-26 S VANDEVENTER AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 24,
+  "ESTPROJECTCOST": 115000.0000,
+  "APPLICATIONDESCRIPTION": "Repair existing masonry wall"
 }
 {
   "ADDRESS": "1105-9 OLIVE ST",
