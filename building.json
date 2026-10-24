@@ -679,154 +679,114 @@
   "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
 }
 {
-  "ADDRESS": "7324 LEONA ST",
+  "ADDRESS": "6401 SCANLAN AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 32000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT REAR DECK"
-}
-{
-  "ADDRESS": "6056 BISHOPS PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 24,
-  "APPLICATIONDATE": "August, 18 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 36,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "New inground fiberglass pool and surrounding decking installation."
-}
-{
-  "ADDRESS": "5854 ETZEL AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 0,
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "July, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 85,
   "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Retaining Wall / 4 ft High Wood Fence Ext. Alt. Per Plans"
+  "APPLICATIONDESCRIPTION": "Recover awning with signage"
 }
 {
-  "ADDRESS": "5603 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "ADDRESS": "5640 MAPLE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 120000.0000,
-  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
-}
-{
-  "ADDRESS": "5603 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 122000.0000,
-  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
-}
-{
-  "ADDRESS": "5226 GRAVOIS AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 21 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 600.0000,
-  "APPLICATIONDESCRIPTION": "Temp Door for entry way damaged from vehicle damage"
-}
-{
-  "ADDRESS": "5109 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "Int Alt - Kitchen and Bath Per Plans"
-}
-{
-  "ADDRESS": "4934 PERSHING PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 04 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 50,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "Re roof full house, tearing off all shingles, ridges, starter, flashings, ice and water, synthetic etc. Replacing any bad wood.<:Install new shingles Malarkey Vista brilliant black, ridge cap, starter, ice and waterm synthetic, etc."
-}
-{
-  "ADDRESS": "4354 ELLENWOOD AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 21 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 2,
   "ESTPROJECTCOST": 6000.0000,
-  "APPLICATIONDESCRIPTION": "Foundation repair - installing 2 Helitech Support Columns and a secondary support beam underneath the sunroom"
+  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' WOOD FENCE"
 }
 {
-  "ADDRESS": "4108 BOTANICAL AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
+  "ADDRESS": "5623 WINONA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "1. Remove existing tub, tile surround, and valve.<:2. Install new shower pan and valve<:3. Install code approved Durarock board backer, acrylic surround,<:and tempered glass shower door.<:4. No electrical/mechanical work.<:5. No structural work.<:6. No work on any plumbing outside of wet area."
+}
+{
+  "ADDRESS": "5320 CONDE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Exterior Alterations Per Plans"
 }
 {
-  "ADDRESS": "4056 BOTANICAL AV",
+  "ADDRESS": "4721 WASHINGTON AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 22 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 24733.0000,
-  "APPLICATIONDESCRIPTION": "Foundation repair - installing 4 helical piers to the foundation (2 inside and 2 outside) as well as 1 steel support post in the basement"
+  "APPLICATIONDATE": "September, 15 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 38,
+  "ESTPROJECTCOST": 97000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALTS"
 }
 {
-  "ADDRESS": "249 UNION BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 433000.0000,
-  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system. 25 year manufacturing NDL warranty."
-}
-{
-  "ADDRESS": "2016-8 S JEFFERSON AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 20 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 156,
-  "ESTPROJECTCOST": 200000.0000,
-  "APPLICATIONDESCRIPTION": "INT/EXT ALTS (FIRE DAMAGE/NEW GARAGE/NEW FENCE)"
-}
-{
-  "ADDRESS": "1242 HAMPTON AV",
+  "ADDRESS": "4462 MARGARETTA AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 09 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 13000.0000,
-  "APPLICATIONDESCRIPTION": "Installing 140LF of 8'H white hamilton fencing."
+  "APPLICATIONDATE": "September, 11 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 42,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Installing 83LF of 5'H residential galvanized chain Link, 73LF of 4'H residential galvanized chain link with a 12ft double drive gate and 23LF of 36\" black 2 rail aluminum railing. <:The railing will be installed at 4462 Margaretta Ave and the 5'H chain link and 4'H chain link will be installed 4458 Margaretta Ave. Both properties are owned by Raymond and Allison Fields."
 }
 {
-  "ADDRESS": "1005 MCCAUSLAND AV",
+  "ADDRESS": "4458 MARGARETTA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "September, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 39,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "Installing 83LF of 5'H residential galvanized chain Link, 73LF of 4'H residential galvanized chain link with a 12ft double drive gate and 23LF of 36\" black 2 rail aluminum railing. <:The railing will be installed at 4462 Margaretta Ave and the 5'H chain link and 4'H chain link will be installed 4458 Margaretta Ave. Both properties are owned by Raymond and Allison Fields. The fence on 4458 Margaretta Ave will be primary used for parking."
+}
+{
+  "ADDRESS": "4405 NORFOLK AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 26 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 211,
+  "ESTPROJECTCOST": 400000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW TWO STORY SINGLE FAMILY HOME"
+}
+{
+  "ADDRESS": "4218 RUSSELL BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT WOOD CARPORT"
+}
+{
+  "ADDRESS": "2906 LEMP AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 10 2026 00:00:00",
-  "ISSUEDATE": "September, 23 2026 00:00:00",
-  "DAYSTOISSUE": 13,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "Reinforcing for a new piece of mechanical equipment."
+  "APPLICATIONDATE": "October, 19 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 120000.0000,
+  "APPLICATIONDESCRIPTION": "Floor 1: Turn existing half-bath/laundry room combination room into 2 separated spaces: a powder room and butler's pantry.<:Floor 2: Reconfigure existing 2 full bathrooms and center bedroom to create corridor, shift existing bathrooms south, add closet and add laundry room"
+}
+{
+  "ADDRESS": "1409 E GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "CONVERT 2 FAMILY TO 1 FAMILY"
 }
 {
   "ADDRESS": "8569 ORIOLE AV",
@@ -3072,21 +3032,21 @@
   "ADDRESS": "5441-5 HAMPTON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "July, 08 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 89,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUM) ELEC"
-}
-{
-  "ADDRESS": "5441-5 HAMPTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
   "APPLICATIONDATE": "July, 29 2026 00:00:00",
   "ISSUEDATE": "October, 05 2026 00:00:00",
   "DAYSTOISSUE": 68,
   "ESTPROJECTCOST": 550.0000,
   "APPLICATIONDESCRIPTION": "INSTALL 2 SIGNS (1 WALL MURAL & 1 PROJECTING)"
+}
+{
+  "ADDRESS": "5441-5 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "July, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 89,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUM) ELEC"
 }
 {
   "ADDRESS": "5433-75 CABANNE AV",
