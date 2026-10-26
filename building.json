@@ -439,106 +439,6 @@
   "APPLICATIONDESCRIPTION": "Renovation to primary bathroom. Addition of cabinetry to kitchen and mudroom."
 }
 {
-  "ADDRESS": "7105 DALE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 18000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE REAR WOOD DECK"
-}
-{
-  "ADDRESS": "6540 MCCUNE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 24 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Install two (2) square shaft helix steel piers to stabilize the front porch."
-}
-{
-  "ADDRESS": "5621 ARTHUR AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 21000.0000,
-  "APPLICATIONDESCRIPTION": "Replace Front Porch Per Plans"
-}
-{
-  "ADDRESS": "5027 NORTHLAND AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 67000.0000,
-  "APPLICATIONDESCRIPTION": "INT ALT STORM DAMAGE"
-}
-{
-  "ADDRESS": "4515 PERSHING PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 61000.0000,
-  "APPLICATIONDESCRIPTION": "FLATWORK AND HANDRAILS"
-}
-{
-  "ADDRESS": "4225 S GRAND BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 4' ALUMINUM FENCE"
-}
-{
-  "ADDRESS": "3934 WINNEBAGO ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Fence install"
-}
-{
-  "ADDRESS": "2859 MCNAIR AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 17,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "Precision Craft LLC will furnish the labor, standard contractor-grade materials,<:equipment, permit coordination, and cleanup necessary to complete the selected<:exterior improvements at the property.<:This proposal separates the previously discussed porch and balcony work into two<:independently selectable options.<:Option 1 consists of constructing a new approximately 9-foot by 12-foot first-floor<:porch using pressure-treated lumber, including new structural framing, decking, railing,<:and approximately 4-foot-wide steps.<:Option 2 consists of constructing a new approximately 4-foot by 4-foot second-story<:balcony supported by new structural posts, including pressure-treated framing,<:decking, and code-compliant railing."
-}
-{
-  "ADDRESS": "2717 SIDNEY ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 03 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 22,
-  "ESTPROJECTCOST": 510000.0000,
-  "APPLICATIONDESCRIPTION": "Interior renovation of existing Career Center to better align with program needs."
-}
-{
-  "ADDRESS": "120 E GRAND BLVD",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 20 2026 00:00:00",
-  "ISSUEDATE": "September, 25 2026 00:00:00",
-  "DAYSTOISSUE": 36,
-  "ESTPROJECTCOST": 350000.0000,
-  "APPLICATIONDESCRIPTION": "Build hot glycol enclosure on the new pad."
-}
-{
   "ADDRESS": "6401 SCANLAN AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
@@ -3090,16 +2990,6 @@
 }
 {
   "ADDRESS": "1214-26 S VANDEVENTER AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "September, 18 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 17,
-  "ESTPROJECTCOST": 25000.0000,
-  "APPLICATIONDESCRIPTION": "REMOVE FIRE SPRINKLER SYSTEM"
-}
-{
-  "ADDRESS": "1214-26 S VANDEVENTER AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "September, 11 2026 00:00:00",
@@ -3107,6 +2997,16 @@
   "DAYSTOISSUE": 24,
   "ESTPROJECTCOST": 115000.0000,
   "APPLICATIONDESCRIPTION": "Repair existing masonry wall"
+}
+{
+  "ADDRESS": "1214-26 S VANDEVENTER AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "September, 18 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 17,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "REMOVE FIRE SPRINKLER SYSTEM"
 }
 {
   "ADDRESS": "1105-9 OLIVE ST",
