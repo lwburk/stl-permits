@@ -419,14 +419,224 @@
   "APPLICATIONDESCRIPTION": "EXT ALTS"
 }
 {
-  "ADDRESS": "4537 TOWER GROVE PL",
-  "PROJECTTYPE": "New Const.",
+  "ADDRESS": "6935 ALABAMA AV",
+  "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "September, 27 2026 00:00:00",
+  "APPLICATIONDATE": "October, 17 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Total roof replacement including decking, sheathing, and shingles."
+}
+{
+  "ADDRESS": "6466 WANDA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 16 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 11,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing fence and install 82' of 6' tall vinyl privacy fence in the backyard."
+}
+{
+  "ADDRESS": "6120 IDAHO AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "construct new garage per plans"
+}
+{
+  "ADDRESS": "5312 CHIPPEWA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
   "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "NEW DETACHED CARRIAGE HOUSE <:LEVEL 1 - 491 SF 2 CAR GARAGE & 400 SF YARD STORE<:LEVEL 2 - 400 SF STORAGE <:977 GROSS SF ON LEVEL 1 & 450 GROSS SF LEVEL 2 = 1,427 SF TOTAL"
+  "ESTPROJECTCOST": 24000.0000,
+  "APPLICATIONDESCRIPTION": "Tear out existing bathroom, walls, tub toilet, terrazzo floor and old plumbing drains and vent lines. Install new tiled walk-in shower with new plumbing fixtures, waste lines, vent to code. Tile shower walls and floors, plaster finishes. and heated floor."
+}
+{
+  "ADDRESS": "5001 MACKLIND AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO BP-289826 FOR DRY WALL CEILING & WALL"
+}
+{
+  "ADDRESS": "500 S EWING AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 3130519.0000,
+  "APPLICATIONDESCRIPTION": "Interior buildout of approximately 14,000 square feet within the existing building at 500 South Ewing Avenue, integrating Suites A and B on the east side with Keeley’s existing office space in the remainder of the building. Work in Suites A and B will include selective demolition and construction of new partitions, ceilings, offices, restrooms, windows, doors, finishes, and furniture."
+}
+{
+  "ADDRESS": "4706 NEWPORT AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE REAR PORCH"
+}
+{
+  "ADDRESS": "4139 WESTMINSTER PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS (FINISH BASEMENT)"
+}
+{
+  "ADDRESS": "4121 UTAH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Build Screened Porch Per Plans"
+}
+{
+  "ADDRESS": "4049 LINDELL BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 600000.0000,
+  "APPLICATIONDESCRIPTION": "Interior remodel to existing retail space to turn into laundromat. See attached plans for a detailed scope of work."
+}
+{
+  "ADDRESS": "3864-8 ASHLAND AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 36,
+  "ESTPROJECTCOST": 6250.0000,
+  "APPLICATIONDESCRIPTION": "Manufacturing and installing a channel letter sign"
+}
+{
+  "ADDRESS": "3809 HARTFORD ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 23 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Install four (4) steel piers"
+}
+{
+  "ADDRESS": "3182 HARLEQUIN LA",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 26 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 44000.0000,
+  "APPLICATIONDESCRIPTION": "Fire Damage Repair - Scope of Work Submitted"
+}
+{
+  "ADDRESS": "3137 PORTIS AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 36,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Full roof replacement"
+}
+{
+  "ADDRESS": "2924 ALLEN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 400000.0000,
+  "APPLICATIONDESCRIPTION": "Repairing damages caused by a fire"
+}
+{
+  "ADDRESS": "2309 S 10TH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 17 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 1500.0000,
+  "APPLICATIONDESCRIPTION": "This project will add a fence section between 2309 and 2311, as well as repair a section of fence damaged by a storm earlier this year."
+}
+{
+  "ADDRESS": "2301 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "October, 19 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 8,
+  "ESTPROJECTCOST": 10100.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL SIGNAGE FOR FIRST CITIZENS BANK:<:<:SIGN 1: WALL SIGN - HALO LIT CHANNEL LETTERS; MEASURING 21.84 SF. SIGN TO CONNECT TO EXISTING ELECTRICAL.<:SIGN 2: WALL SIGN - HALO LIT CHANNEL LETTERS; MEASURING 28.81 SF. SIGN TO CONNECT TO EXISTING ELECTRICAL.<:SIGN 3: WALL SIGN - HALO LIT CHANNEL LETTERS; MEASURING 31.68 SF. SIGN TO CONNECT TO EXISTING ELECTRICAL.<:SIGN 4: FACE REPLACEMENT - PYLON SIGN (QTY. 2); MEASURING 98.7 SF. SIGN TO CONNECT TO EXISTING ELECTRICAL.<:SIGN 5: ATM TOPPER (QTY. 2)."
+}
+{
+  "ADDRESS": "2214 CUGGIONO CT",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 26 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing deck and front porch steps.  Install a new deck approx. 12' x 14'.  Install new front porch steps approx. 60\" wide."
+}
+{
+  "ADDRESS": "2016-8 S JEFFERSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 27 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT BP-2644-26"
+}
+{
+  "ADDRESS": "1500-18 MONROE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 21 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 98,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Add a shower and a corridor in an existing building."
+}
+{
+  "ADDRESS": "1464 STEWART PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 29,
+  "ESTPROJECTCOST": 45000.0000,
+  "APPLICATIONDESCRIPTION": "Cosmetic updates but creating an open floor plan by adding some beams and columns"
+}
+{
+  "ADDRESS": "120 LAFAYETTE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 22 2026 00:00:00",
+  "ISSUEDATE": "October, 27 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 28000.0000,
+  "APPLICATIONDESCRIPTION": "The installation of approximately 682 linear feet of 8ft tall chain link fencing. Install one manual rolling 30ft x 8ft gate and one 20ft x 8ft manual roll gate."
 }
 {
   "ADDRESS": "912 HICKORY ST",
