@@ -1,152 +1,122 @@
 {
-  "ADDRESS": "932 LOUGHBOROUGH AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 19 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 42,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "THE PROPOSED PROJECT INCLUDES PLACING EQUIPMENT<:CABINETS ON A PROPOSED CONCRETE PAD INSIDE A 7' X 18'<:AND 8'-6\" X 13' GROUND SPACE WITHIN THE EXISTING<:COMPOUND, AND PLACING NEW ANTENNAS ON PROPOSED<:SECTOR FRAME(s) MOUNTED TO THE EXISTING TOWER."
-}
-{
-  "ADDRESS": "8205 KETMORE DR",
+  "ADDRESS": "800 N 17TH ST",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "Wood privacy fence at rear of property."
-}
-{
-  "ADDRESS": "8116-22 N BROADWAY",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 30 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "EXT ALTERATIONS"
-}
-{
-  "ADDRESS": "6440 OLEATHA AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 25 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 5,
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "July, 28 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 94,
   "ESTPROJECTCOST": 11000.0000,
-  "APPLICATIONDESCRIPTION": "4 Push Piers Installed on Foundation"
+  "APPLICATIONDESCRIPTION": "Update of fire alarm system"
 }
 {
-  "ADDRESS": "5020 TENNESSEE AV",
+  "ADDRESS": "6229 WASHINGTON AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 22 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 8,
-  "ESTPROJECTCOST": 60000.0000,
-  "APPLICATIONDESCRIPTION": "SCOPE OF WORK — Complete Renovation Finish This proposal covers the completion of the interior and targeted exterior work at 5020 Tennessee Ave, organized into the sections below. It reflects the adjustments from your July 31 notes: interior doors reduced to seven, all exterior doors removed from our scope (you are supplying those), and an HVAC allowance added. MI-01 — General Conditions Site protection throughout, daily and final cleanup, and two roll-off dumpsters for construction debris. MI-02 — Life Safety & Inspection Sign-Off Electrical finish-out and final inspection items, rear deck structural repair (materials and labor), deck stair concrete pad, and code-required handrails, guards, and transition strips. This section carries the project through the life-safety and inspection requirements. MI-03 — Basement Moisture & Mold (Targeted) Targeted mold cleanup with one-wall drywall demo and seal, mold-blocking primer, waterproofing, and a dehumidifier. Note: mold behind wall coverings that remain in place is excluded and would be handled by change order if uncovered. MI-04 — Interior Finish Flooring: LVP throughout the main level (materials + install), carpet and pad on the second floor and stairs (subcontracted install), and subfloor patching/prep. Tile: bathroom floor tile and shower/tub surround wall tile, set, grouted, and sealed. Doors: seven (7) interior doors with hardware and casing, hung and adjusted. (Exterior doors are customer-supplied and installed as part of the door-install labor at no material charge.) Openings: reframe mismatched openings and the master closet for pocket doors. Trim: baseboard, door and window casing, and jamb extensions throughout. Drywall: patch and finish at reframed openings and bathroom returns, ready for primer. Paint: prime and two finish coats to walls, ceilings, and trim across all three levels, colors approved before start. MI-05 — Kitchen & Bath Completion Set and level the customer's existing cabinets, build the kitchen island, coordinate and set laminate countertops (allowance), set the customer's appliances, install a ductless range vent, complete the half bath, and set bath accessories and hardware. HVAC system work included at a $5,000 allowance per your request (final equipment/scope to be confirmed). MI-06 — Exterior Water Entry (Targeted) Tuckpointing at the water-entry section and window sealing to stop the identified intrusion. MI-07 — Carport & Gravel Parking (Optional) Prefabricated carport kit, assembly, and gravel base/parking surface, with a City of St. Louis permit allowance. (This is the budget-friendly gravel carport option in place of full removal, as discussed.) Not included: Exterior doors (customer-supplied); plumbing fixtures set by the customer's plumber (vanities, toilets, tubs, faucets); mold behind wall coverings left in place; and any concealed condition found once surfaces are opened, which would be handled by written change order."
-}
-{
-  "ADDRESS": "4209 CASTLEMAN AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 28 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 26000.0000,
-  "APPLICATIONDESCRIPTION": "Installation of a grid-tied, roof mounted 8.8 kW DC, 6.98 kW AC solar PV array at the Davis residence."
-}
-{
-  "ADDRESS": "3174 PENNSYLVANIA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 28 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Replacing old wooden fence and gate, replacing small section of remaining chainlink with wood fence, to match the wood fence around the rest of the property."
-}
-{
-  "ADDRESS": "3002 GEYER AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 24 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "Convert the existing 6-foot chain link fence along the alley to a 6-foot wood privacy fence. The chain link fabric, top rail, and hardware will be removed. The existing steel line posts will remain and be adapted to carry a wood frame: horizontal 2x4 pressure-treated rails (top, middle, and bottom) will be fastened to each post with galvanized post-to-rail brackets, and vertical wood pickets will be attached to the rails. The finished side of the fence will face the alley.<:<:Gate Posts: Two (2) new 4-inch nominal Schedule 40 galvanized steel posts will be installed to support the replacement gate. Each post will be embedded a minimum of 36 inches below finished grade and set in a concrete bell footing measuring 12 inches in diameter at grade and flaring to 16 inches at the base. Concrete will have a minimum compressive strength of 3,000 psi. The top of each footing will be crowned to shed water away from the post. Posts will be set plumb and braced until the concrete has cured, and the gate will not be hung until curing is complete. The gate will swing inward onto the property and will not open into the alley."
-}
-{
-  "ADDRESS": "2820 GOODFELLOW BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 13 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 48,
-  "ESTPROJECTCOST": 19000.0000,
-  "APPLICATIONDESCRIPTION": "Addendum to PB588131-25<:SOW:<:THE PROPOSED PROJECT INCLUDES PLACING EQUIPMENT<:CABINETS, ON PROPOSED CONCRETE PAD(s) INSIDE A 12' X 25'<:GROUND SPACE WITHIN THE EXISTING COMPOUND, AND<:PLACING NEW ANTENNAS ON A PROPOSED PLATFORM<:MOUNTED TO THE EXISTING TOWER."
-}
-{
-  "ADDRESS": "2807-9 MARCUS AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 30 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
+  "APPLICATIONDATE": "October, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "EXT ALT STORM DAMAGE"
+  "ESTPROJECTCOST": 32000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALTS (GARAGE ROOF REPAIR)"
 }
 {
-  "ADDRESS": "2337 LOUISIANA AV",
+  "ADDRESS": "5239 DAGGETT AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "September, 30 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
+  "STRUCTURETYPE": 24,
+  "APPLICATIONDATE": "October, 01 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 29,
+  "ESTPROJECTCOST": 173000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL INGROUND SWIMMING POOL - separate permit required for work not detailed in plans"
+}
+{
+  "ADDRESS": "5039 VERNON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "REPAIR 2 - PORCHES (REAR & SIDE )"
+  "APPLICATIONDESCRIPTION": "CONSTRUCT WOOD FENCE (REAR)"
 }
 {
-  "ADDRESS": "1827 S COMPTON AV",
+  "ADDRESS": "4976 NATURAL BRIDGE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "October, 15 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 4060.0000,
+  "APPLICATIONDESCRIPTION": "replace existing 5' tall x 7'2.5\" wide non-illuminated max metal sign that was damaged. Sign to be installed on existing posts."
+}
+{
+  "ADDRESS": "4109 CASTLEMAN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT REAR DECK"
+}
+{
+  "ADDRESS": "3816-8 UNION BLVD",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 28 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "2 new garages being built to replace old garages that were damaged."
+}
+{
+  "ADDRESS": "311 ROSEDALE AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 30 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "INT ALT. (STRUCTURAL REPAIR ONLY)"
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 16,
+  "ESTPROJECTCOST": 23000.0000,
+  "APPLICATIONDESCRIPTION": "Toledo Interior Water Restoration"
 }
 {
-  "ADDRESS": "1210 MACKLIND AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 18 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 12,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "No removal of existing fence <:<:Fence Material: Commercial Steel<:Fence Style: Classic<:Height: 6'<:Color: Black<:Linear Footage of fence: 117<:Number of gates: 3<:Gate sizes: 7' wide double gate rainbow style, 4' wide single gate arched Bulldog latch<:All posts set in concrete"
-}
-{
-  "ADDRESS": "1016 CHILDRESS AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 25,
-  "APPLICATIONDATE": "September, 30 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 13000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE RETAINING WALL"
-}
-{
-  "ADDRESS": "10 PORTLAND PL",
+  "ADDRESS": "2633 RUSSELL BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 11 2026 00:00:00",
-  "ISSUEDATE": "September, 30 2026 00:00:00",
-  "DAYSTOISSUE": 142,
-  "ESTPROJECTCOST": 8000.0000,
-  "APPLICATIONDESCRIPTION": "STRUCTUAL FOUNDATION REPAIR PERMA JACK"
+  "APPLICATIONDATE": "October, 29 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "Roof Replacement"
+}
+{
+  "ADDRESS": "2145 S JEFFERSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "Ext Alt - 2nd Floo Rear  Deck Per Plans"
+}
+{
+  "ADDRESS": "2118-22 MARKET ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "Employees & Team Celebration"
+}
+{
+  "ADDRESS": "1525 LOUISVILLE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 30 2026 00:00:00",
+  "ISSUEDATE": "October, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "FOUNDATION REPAIR"
 }
 {
   "ADDRESS": "6229 ITASKA ST",
@@ -3132,21 +3102,21 @@
   "ADDRESS": "5441-5 HAMPTON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "July, 29 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 550.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 2 SIGNS (1 WALL MURAL & 1 PROJECTING)"
-}
-{
-  "ADDRESS": "5441-5 HAMPTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
   "APPLICATIONDATE": "July, 08 2026 00:00:00",
   "ISSUEDATE": "October, 05 2026 00:00:00",
   "DAYSTOISSUE": 89,
   "ESTPROJECTCOST": 2000.0000,
   "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUM) ELEC"
+}
+{
+  "ADDRESS": "5441-5 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "July, 29 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 68,
+  "ESTPROJECTCOST": 550.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 2 SIGNS (1 WALL MURAL & 1 PROJECTING)"
 }
 {
   "ADDRESS": "5433-75 CABANNE AV",
