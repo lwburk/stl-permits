@@ -3102,21 +3102,21 @@
   "ADDRESS": "5441-5 HAMPTON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "July, 08 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 89,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUM) ELEC"
-}
-{
-  "ADDRESS": "5441-5 HAMPTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
   "APPLICATIONDATE": "July, 29 2026 00:00:00",
   "ISSUEDATE": "October, 05 2026 00:00:00",
   "DAYSTOISSUE": 68,
   "ESTPROJECTCOST": 550.0000,
   "APPLICATIONDESCRIPTION": "INSTALL 2 SIGNS (1 WALL MURAL & 1 PROJECTING)"
+}
+{
+  "ADDRESS": "5441-5 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "July, 08 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 89,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUM) ELEC"
 }
 {
   "ADDRESS": "5433-75 CABANNE AV",
@@ -3300,16 +3300,6 @@
 }
 {
   "ADDRESS": "1214-26 S VANDEVENTER AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "September, 18 2026 00:00:00",
-  "ISSUEDATE": "October, 05 2026 00:00:00",
-  "DAYSTOISSUE": 17,
-  "ESTPROJECTCOST": 25000.0000,
-  "APPLICATIONDESCRIPTION": "REMOVE FIRE SPRINKLER SYSTEM"
-}
-{
-  "ADDRESS": "1214-26 S VANDEVENTER AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "September, 11 2026 00:00:00",
@@ -3317,6 +3307,16 @@
   "DAYSTOISSUE": 24,
   "ESTPROJECTCOST": 115000.0000,
   "APPLICATIONDESCRIPTION": "Repair existing masonry wall"
+}
+{
+  "ADDRESS": "1214-26 S VANDEVENTER AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "September, 18 2026 00:00:00",
+  "ISSUEDATE": "October, 05 2026 00:00:00",
+  "DAYSTOISSUE": 17,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "REMOVE FIRE SPRINKLER SYSTEM"
 }
 {
   "ADDRESS": "1105-9 OLIVE ST",
@@ -3337,154 +3337,4 @@
   "DAYSTOISSUE": 39,
   "ESTPROJECTCOST": 15000.0000,
   "APPLICATIONDESCRIPTION": "THIS IS AN ADDENDUM set of drawings for AB# 586718.  Original / current plan examiner: Tim Klaas.<:Original permit granted in Jan. '26.  This set has several enhancements / changes under bubbled #2.<:The PROJECT COST indicated above is the anticipated increase from original cost.  Residential aspect of this project has been REMOVED."
-}
-{
-  "ADDRESS": "807-9 GEYER AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 07 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 56,
-  "ESTPROJECTCOST": 600000.0000,
-  "APPLICATIONDESCRIPTION": "Interior renovation (and 3rd floor steel egress fire escape) to convert existing office buildings into multi-tenant apartment units."
-}
-{
-  "ADDRESS": "5872 WALSH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "October, 02 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 18000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW CARPORT"
-}
-{
-  "ADDRESS": "5640 NEOSHO ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "July, 07 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 87,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Replacing about a 10' x 24' area of the roof, as shown in design, and adding New Gabled Roof areas to allow for better use of and more room in the 4th bedroom and a possible 2nd bathroom addition."
-}
-{
-  "ADDRESS": "5632 DEVONSHIRE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 24,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Remove existing 4' chain link fence and install 185' of 6' tall white Everguard privacy fence with (2) gates."
-}
-{
-  "ADDRESS": "5603 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 136000.0000,
-  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
-}
-{
-  "ADDRESS": "5603 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 93000.0000,
-  "APPLICATIONDESCRIPTION": "Mechanically attached 1/2 inch dens deck coverboard over the existing. Fully adhered 60 mil TPO system, 25 year manufacturing NDL warranty."
-}
-{
-  "ADDRESS": "5478 CLEMENS PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "September, 09 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 23,
-  "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "Tearing down 38 LF of 6'H wood fence and installing 121 LF new 6'H white vinyl."
-}
-{
-  "ADDRESS": "3955 WENZLICK AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "October, 02 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' REAR AND SIDE WOOD FENCE"
-}
-{
-  "ADDRESS": "3410 OREGON AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 22 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 10,
-  "ESTPROJECTCOST": 120000.0000,
-  "APPLICATIONDESCRIPTION": "interior and exterior renovation to two story existing residence"
-}
-{
-  "ADDRESS": "3214-20 S COMPTON AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 18 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 300000.0000,
-  "APPLICATIONDESCRIPTION": "INT/EXT ALTERATIONS"
-}
-{
-  "ADDRESS": "3205 LAFAYETTE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 24,
-  "APPLICATIONDATE": "September, 29 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 3,
-  "ESTPROJECTCOST": 142000.0000,
-  "APPLICATIONDESCRIPTION": "INGROUND SWIMING POOL"
-}
-{
-  "ADDRESS": "2915 ST VINCENT AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "October, 02 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 8' VINYL FENCE"
-}
-{
-  "ADDRESS": "2438 MCNAIR AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "August, 18 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 45,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "New Traditional Fabric awning spanning 43 feet long, 3 feet high and projecting 4 feet off the South side of the Blues City Deli restaurant. fabricated and installed by Lawrence Fabric and professionally engineered."
-}
-{
-  "ADDRESS": "2010 WYOMING ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "October, 02 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 35000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL GARAGE PORT"
-}
-{
-  "ADDRESS": "1124-8 N KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 14 2026 00:00:00",
-  "ISSUEDATE": "October, 02 2026 00:00:00",
-  "DAYSTOISSUE": 49,
-  "ESTPROJECTCOST": 250000.0000,
-  "APPLICATIONDESCRIPTION": "Footings, Foundations, Interior Slab & CMU"
 }
