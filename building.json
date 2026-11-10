@@ -2529,14 +2529,214 @@
   "APPLICATIONDESCRIPTION": "Repair the exterior garage wall damaged by car driving through said brick wall.  This work was completed under a permit in 2018.  This is a re-permitting process required by the current inspector."
 }
 {
-  "ADDRESS": "753 BAYARD AV",
+  "ADDRESS": "904 S 14TH ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 14 2026 00:00:00",
-  "ISSUEDATE": "October, 10 2026 00:00:00",
-  "DAYSTOISSUE": 26,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "THIS PROJECT CONSISTS OF THE RENOVATION AND CONVERSION OF AN<:EXISTING TWO-FAMILY DWELLING INTO A THREE-UNIT MULTI-FAMILY<:BUILDING. WORK INCLUDES: INTERIOR RENOVATION TO CREATE THREE<:DWELLING UNITS, ONE PER LEVEL, EACH WITH TWO MEANS OF EGRESS;<:CONVERSION OF THE EXISTING BASEMENT TO HABITABLE SPACE; NEW<:1-HR FIRE SEPARATIONS BETWEEN DWELLING UNITS AND AT THE COMMON<:STAIR ENCLOSURE; MASONRY FACADE REPAIR AND TUCKPOINTING;<:IN-KIND REPLACEMENT OF EXISTING WINDOWS AND DOORS; NEW ROOFING;<:NEW SITE WALKWAYS AND OFF-ALLEY PARKING; AND NEW MECHANICAL,<:ELECTRICAL, AND PLUMBING SYSTEMS THROUGHOUT."
+  "APPLICATIONDATE": "November, 04 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 345000.0000,
+  "APPLICATIONDESCRIPTION": "removal of the existing roof and installation of a new roof system. New roof system shall consist of insulation meeting R30 codes and TPO roof membrane, fully inspected and warrantied by roof system manufacturer"
+}
+{
+  "ADDRESS": "6457-9 CHIPPEWA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 06 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "Demo of Interior Space to prepare for New construction"
+}
+{
+  "ADDRESS": "6229 FAUQUIER DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 85000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT SUN ROOM STORM DAMAGE"
+}
+{
+  "ADDRESS": "5855 DEVONSHIRE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "October, 19 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "Channel letter"
+}
+{
+  "ADDRESS": "560 EILER ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "Rear Deck Repair Per Plans"
+}
+{
+  "ADDRESS": "5316-20 PERSHING AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 19 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "We are replacing 3 windows in the apt building for unit #312. These 3 windows will be replaced with star-rated, energy efficient, white vinyl windows"
+}
+{
+  "ADDRESS": "4646 S GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "4625 WESTMINSTER PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALT BATHROOM REMODEL"
+}
+{
+  "ADDRESS": "4500-12 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "October, 19 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "4 Channel Letter Signs"
+}
+{
+  "ADDRESS": "4300-16 DUNCAN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1871000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR  ALTERATIONS"
+}
+{
+  "ADDRESS": "4250 W EVANS AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 280000.0000,
+  "APPLICATIONDESCRIPTION": "New construction single family"
+}
+{
+  "ADDRESS": "4222 W EVANS AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 280000.0000,
+  "APPLICATIONDESCRIPTION": "New construction single family"
+}
+{
+  "ADDRESS": "4201 MCREE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 77,
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "interior alterations only, except landscaping. Limited selective demolition and interior fit out for a single tenant office user on 2 floors."
+}
+{
+  "ADDRESS": "2857-9 TEXAS AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 06 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 47000.0000,
+  "APPLICATIONDESCRIPTION": "Foundation Settlement Repair (Piering)"
+}
+{
+  "ADDRESS": "2718 INDIANA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "GARAGE REPAIR"
+}
+{
+  "ADDRESS": "2509 S 9TH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT REAR 2ND FL DECK"
+}
+{
+  "ADDRESS": "2334 MENARD ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 31000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTERATIONS (FINISH BASEMENT)"
+}
+{
+  "ADDRESS": "169 E GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 26 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 300000.0000,
+  "APPLICATIONDESCRIPTION": "New platen washer equipment being installed, tear out CMU wall for removal of equipment and rebuild CMU wall."
+}
+{
+  "ADDRESS": "1605 MISSOURI AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 04 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 78000.0000,
+  "APPLICATIONDESCRIPTION": "Remove and replace the designated existing asphalt-shingle roofing with GAF Slateline Designer Shingles in Antique Slate, including WeatherBlocker starter, Tiger Paw underlayment, StormGuard leak barrier and TimberTex hip and ridge caps.<:<:Install copper valley, step and roof-to-wall flashing and a custom copper chimney back-pan. Retain and integrate serviceable existing copper counterflashing. Install aluminum drip edge and gutter apron, and renew the designated small low-slope section with the GAF Liberty roofing system.<:<:Include six proposed dome vents and three plumbing pipe boots, with locations and finishes submitted for historic review. Reflash the existing VELUX skylight while retaining the unit and existing opening.<:<:Retain existing slate-covered areas, roof lines, slopes and dormer configuration. Inspect exposed decking and repair deteriorated areas as needed. Include debris removal and cleanup. Gutter, downspout and fascia replacement are excluded."
+}
+{
+  "ADDRESS": "1316 RUTGER ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 01 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 39,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "New construction garage, house under permit # BP-589238"
+}
+{
+  "ADDRESS": "1205 PARK AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 01 2026 00:00:00",
+  "ISSUEDATE": "November, 09 2026 00:00:00",
+  "DAYSTOISSUE": 39,
+  "ESTPROJECTCOST": 300000.0000,
+  "APPLICATIONDESCRIPTION": "New construction single family residential"
 }
 {
   "ADDRESS": "8000 HALL ST",
@@ -3192,6 +3392,16 @@
   "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 27 2026 00:00:00",
+  "ISSUEDATE": "November, 03 2026 00:00:00",
+  "DAYSTOISSUE": 68,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "Addendum No. 1. Permit No. BP-2225-26"
+}
+{
+  "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "October, 01 2026 00:00:00",
   "ISSUEDATE": "November, 03 2026 00:00:00",
   "DAYSTOISSUE": 33,
@@ -3207,16 +3417,6 @@
   "DAYSTOISSUE": 33,
   "ESTPROJECTCOST": 350000.0000,
   "APPLICATIONDESCRIPTION": "PHASE 2 OF THIS PROJECT INVOLVES THE EXTERIOR AND INTERIOR RENOVATION OF THE BUILDING AT 4223 W DR. MARTIN LUTHER KING DRIVE. <:<:WHILE PHASE 1 INVOLVED STRUCTURAL REMEDIATION WORK ON THE OVERALL BUILDING, PHASE 2 INVOLVES THE WHITE BOXING OF THE OVERALL BUILDING, NEW STAIRWELLS, AN ELEVATOR, AND NEW DOORS AND WINDOWS.<:<:ON THE FIRST FLOOR, WORK CONSITS OF NEW ENTRANCES ON FRONT AND REAR SIDES OF THE BUILDINGS, A RECEPTION SPACE, PRIVATE PARKING GARAGE, NEW RESTROOMS, SPACE FOR A FUTURE MAKER SPACE, SPACE FOR FUTURE SHELL SPACE, AND SPACE FOR A FUTURE KITCHEN.<:<:ON THE SECOND FLOOR, WORK CONSISTS OF NEW OFFICE SPACE, NEW RESTROOMS, SPACE FOR FUTURE OFFICES, AND A CHAIR LIFT.<:<:Mechanical, electrical, and plumbing work to be done by design-build contractor. Design-build contractor will obtain their own permits."
-}
-{
-  "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 27 2026 00:00:00",
-  "ISSUEDATE": "November, 03 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "Addendum No. 1. Permit No. BP-2225-26"
 }
 {
   "ADDRESS": "3259 INDIANA AV",
