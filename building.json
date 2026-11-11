@@ -2509,26 +2509,6 @@
   "APPLICATIONDESCRIPTION": "FIRE ALARM"
 }
 {
-  "ADDRESS": "5353 BANCROFT AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "September, 22 2026 00:00:00",
-  "ISSUEDATE": "October, 11 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 16000.0000,
-  "APPLICATIONDESCRIPTION": "Install a 20' x 20' x 4\" concrete pad with 30\" x 12\" monolithic concrete footings on the east and west sides of the pad.  Eagle Carports will install a metal boxed eave style standard carport on the pad with gutters"
-}
-{
-  "ADDRESS": "4961-5 FOUNTAIN AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 27 2026 00:00:00",
-  "ISSUEDATE": "October, 11 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "Repair the exterior garage wall damaged by car driving through said brick wall.  This work was completed under a permit in 2018.  This is a re-permitting process required by the current inspector."
-}
-{
   "ADDRESS": "904 S 14TH ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
