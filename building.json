@@ -2019,204 +2019,154 @@
   "APPLICATIONDESCRIPTION": "Demo of existing countertops, cabinets and sink. <:Re-install new countertops, cabinets and sink."
 }
 {
-  "ADDRESS": "7900-48 VAN BUREN ST",
+  "ADDRESS": "7327 PENNSYLVANIA AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "October, 13 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "US Durum Mill 5445-26 Project scope is to install additions onto existing pre-action sprinkler systems."
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "October, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 100.0000,
+  "APPLICATIONDESCRIPTION": "Replace existing fence with cedar wood fence in the same location"
 }
 {
-  "ADDRESS": "6471 WANDA AV",
+  "ADDRESS": "6748 ITASKA ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 02 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 12,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "Jones kitchen remodel"
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 45000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing shingle roof, install 7/16 OSB over existing spaced decking, install new asphalt shingle roof system to include new IW shield, underlayments, flashings and shingle to code."
 }
 {
-  "ADDRESS": "6289 MARMADUKE AV",
+  "ADDRESS": "5417 CHRISTY BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 12 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "remove and replace full re deck of roof with cdx plywood 5/8 and shingles with new iko dynasty shingles, ridge cap and starter. replace all new synthetic underlayment, ice and water and flashings that the roof needs. New ventilation replacement and drip edge."
-}
-{
-  "ADDRESS": "625 S SKINKER BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 07 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 80000.0000,
-  "APPLICATIONDESCRIPTION": "Kitchen Remodel replacing flooring, cabinets, and countertops.  Remove a portion of Engineer approved non load bearing wall."
-}
-{
-  "ADDRESS": "6226 REBER PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 12 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Install posts for foundation support per engineers report and drawings (already Submitted), attached is the site plan where they are going."
-}
-{
-  "ADDRESS": "5522 ROSA AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 13 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 17000.0000,
-  "APPLICATIONDESCRIPTION": "Remove the existing rear deck at 5522 Rosa Avenue and construct a new 14' × 12' deck with 4'-wide stairs in the location shown on the submitted plans. Work includes supporting foundations, posts, beams, joists, decking, guards, handrails, and connections to the existing residence, in accordance with the approved plans and applicable City of St. Louis codes."
-}
-{
-  "ADDRESS": "5305 GILSON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "October, 14 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Replace Front Porch Per Plans"
-}
-{
-  "ADDRESS": "5243 GENEVIEVE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 08 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "installing drywall and painting, and vinyl plank flooring in bedroom and living room"
-}
-{
-  "ADDRESS": "4905-39 CHILDRENS PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "September, 22 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 22,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "REWORK EXISTING FIRE SPRINKLER SYSTEM PER PLANS"
-}
-{
-  "ADDRESS": "4901 BARNES JEWISH HOSPITAL PLZ",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "October, 12 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 300000.0000,
-  "APPLICATIONDESCRIPTION": "WUSM MCMILLAN HOSPITAL RENOVATION"
-}
-{
-  "ADDRESS": "4810-24 WASHINGTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "September, 21 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 23,
-  "ESTPROJECTCOST": 8000.0000,
-  "APPLICATIONDESCRIPTION": "Recover 2 awnings"
-}
-{
-  "ADDRESS": "4651-65 MARYLAND AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "June, 09 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 127,
-  "ESTPROJECTCOST": 9850.0000,
-  "APPLICATIONDESCRIPTION": "Exterior Corner Blade Sign"
-}
-{
-  "ADDRESS": "4523 MARYLAND AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "October, 14 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "APPLICATIONDATE": "November, 13 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT AB-582214 (ADD 2ND FL DECK)"
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT BP-2251-26"
 }
 {
-  "ADDRESS": "3994 BOWEN ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 23 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 21,
-  "ESTPROJECTCOST": 140000.0000,
-  "APPLICATIONDESCRIPTION": "kitchen and bathroom remodel. Kitchen remove all cabinets, appliances, flooring, fixtures, & lighting. replace with new in existing locations. Bathroom remove shower, toilet, sink, flooring, lighting, and fixtures. Replace with new in existing locations."
+  "ADDRESS": "510 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 47000.0000,
+  "APPLICATIONDESCRIPTION": "Boyer Fire to modify an existing fire sprinkler system located in the Barnes Jewish Hospital Mallinckrodt building within the 5th floor shell spaces and 2nd floor rooms 206, 228, 231 per FM global and state/local requirements. All pendent sprinklers are to be demolished within the working space areas and replaced with upright sprinklers as per drawings. Where applicable, all existing 1\" outlets and 1\" sprinkler pipe will be reused to supply the new upright sprinklers. All spaced to be protected per hazard category 1 (HC-1) per FMDS 2-0 and 3-26."
 }
 {
-  "ADDRESS": "3719 JUNIATA ST",
+  "ADDRESS": "4276 ATHLONE AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 14 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "KITCHEN & BACK DECK RENO"
+  "APPLICATIONDATE": "October, 29 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 47000.0000,
+  "APPLICATIONDESCRIPTION": "Tear off multiple layers of shingles / slate and replace sheathing where necessary in order to install new roof system."
 }
 {
-  "ADDRESS": "3626-30 S GRAND BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 09 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "EXT ALTS - temporary and permanent repair of vehicular accident"
+  "ADDRESS": "3800 S 1ST ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "August, 03 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 102,
+  "ESTPROJECTCOST": 113000.0000,
+  "APPLICATIONDESCRIPTION": "JD Street #8043-26 Replacing existing foam system with new Ansul NFF-331 Foam System"
 }
 {
-  "ADDRESS": "2520-44 N GRAND BLVD",
+  "ADDRESS": "3665 RUSSELL BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 14 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
+  "APPLICATIONDATE": "September, 28 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 46,
+  "ESTPROJECTCOST": 2068.0000,
+  "APPLICATIONDESCRIPTION": "Remove and replace base sheet and cap sheet..  3 pieces of OSB 7/16\" will be installed."
+}
+{
+  "ADDRESS": "3655-7 OLIVE ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "October, 06 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 38,
+  "ESTPROJECTCOST": 549000.0000,
+  "APPLICATIONDESCRIPTION": "Provide wet pipe sprinkler protection for building renovations."
+}
+{
+  "ADDRESS": "3645 ARKANSAS AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 13 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR DEMO & ROOF ONLY<:SEPARATE PERMIT NEEDED FOR INTERIOR RENOVATION"
+  "APPLICATIONDESCRIPTION": "INT ALT"
 }
 {
-  "ADDRESS": "2241 CUGGIONO CT",
+  "ADDRESS": "3432-44 TEXAS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 13 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Ext Alt - Construct Rear Deck Per Plans"
+}
+{
+  "ADDRESS": "3224 ITASKA ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "October, 12 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Extending fence in backyard closer to the property line, removal of existing fence and installation of gate along new fence."
+  "APPLICATIONDATE": "September, 15 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 59,
+  "ESTPROJECTCOST": 14000.0000,
+  "APPLICATIONDESCRIPTION": "160 Lf of 6' Vinyl privacy fence with  2 gates"
 }
 {
-  "ADDRESS": "2029 MARCONI AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "September, 21 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 23,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "Recover 3 awnings, 1 with signage"
+  "ADDRESS": "3038 WASHINGTON AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 25 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 141,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "Addendum to permit #576399"
 }
 {
-  "ADDRESS": "1909 S 8TH ST",
+  "ADDRESS": "2032 SIDNEY ST",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "October, 07 2026 00:00:00",
-  "ISSUEDATE": "October, 14 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL NEW 6'-0\" HIGH WOOD PRIVACY FENCING ALONG SIDE AND REAR YARD AT 1909 S. 8TH ST., INCLUDING WOOD POSTS, DOG-EAR PICKETS, RAILS, CONCRETE POST FOOTINGS, AND GATES WITH INTERIOR-FACING HARDWARE."
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 13 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 16000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT RE BUILD REAR DECK"
+}
+{
+  "ADDRESS": "1401F LASALLE ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 242000.0000,
+  "APPLICATIONDESCRIPTION": "install new wet pipe fire sprinkler system per NFPA 13 Building Residential Occupancy beginning from a provided flange inside the building."
+}
+{
+  "ADDRESS": "1001-3 S GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 04 2026 00:00:00",
+  "ISSUEDATE": "November, 13 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "Addendum to Permit NO. BP-2763-26<:<:Interior fitout to Level 7 of new SSM Cardinal Glennon Children's Hospital. Originally designed as a shell floor, recently designed as a floor for labor and delivery, ante-partum and post-partum, and women's evaluation unit. <:<:Addendum request is regarding revised drawings and specifications per comments from CCI's and FGI's review. Revised drawings and specifications include Architectural, Electrical, Medical Equipment, Mechanical, Plumbing, and Telecommunications."
 }
 {
   "ADDRESS": "8609 RIVERVIEW BLVD",
@@ -3492,6 +3442,16 @@
   "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 27 2026 00:00:00",
+  "ISSUEDATE": "November, 03 2026 00:00:00",
+  "DAYSTOISSUE": 68,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "Addendum No. 1. Permit No. BP-2225-26"
+}
+{
+  "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "October, 01 2026 00:00:00",
   "ISSUEDATE": "November, 03 2026 00:00:00",
   "DAYSTOISSUE": 33,
@@ -3507,16 +3467,6 @@
   "DAYSTOISSUE": 33,
   "ESTPROJECTCOST": 350000.0000,
   "APPLICATIONDESCRIPTION": "PHASE 2 OF THIS PROJECT INVOLVES THE EXTERIOR AND INTERIOR RENOVATION OF THE BUILDING AT 4223 W DR. MARTIN LUTHER KING DRIVE. <:<:WHILE PHASE 1 INVOLVED STRUCTURAL REMEDIATION WORK ON THE OVERALL BUILDING, PHASE 2 INVOLVES THE WHITE BOXING OF THE OVERALL BUILDING, NEW STAIRWELLS, AN ELEVATOR, AND NEW DOORS AND WINDOWS.<:<:ON THE FIRST FLOOR, WORK CONSITS OF NEW ENTRANCES ON FRONT AND REAR SIDES OF THE BUILDINGS, A RECEPTION SPACE, PRIVATE PARKING GARAGE, NEW RESTROOMS, SPACE FOR A FUTURE MAKER SPACE, SPACE FOR FUTURE SHELL SPACE, AND SPACE FOR A FUTURE KITCHEN.<:<:ON THE SECOND FLOOR, WORK CONSISTS OF NEW OFFICE SPACE, NEW RESTROOMS, SPACE FOR FUTURE OFFICES, AND A CHAIR LIFT.<:<:Mechanical, electrical, and plumbing work to be done by design-build contractor. Design-build contractor will obtain their own permits."
-}
-{
-  "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 27 2026 00:00:00",
-  "ISSUEDATE": "November, 03 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "Addendum No. 1. Permit No. BP-2225-26"
 }
 {
   "ADDRESS": "3259 INDIANA AV",
