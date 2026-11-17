@@ -1629,14 +1629,174 @@
   "APPLICATIONDESCRIPTION": "Boyer Fire shall cut, cap & make safe for the demolition of the existing piping and sprinklers within the existing 3rd floor space. Piping shall be demolished back to the existing 2 1/2\" riser located within the chase indicated on FP2. Upon completion of demolition BFP to tie into existing the 2 1/2\" riser with a new 4\" main that will serve the new 2\" branchlines and sprinklers within the new tray storage space. All work to be installed per FM global, NFPA 13, and state/local requirements. All demolition to be performed by others."
 }
 {
-  "ADDRESS": "6810 FYLER AV",
+  "ADDRESS": "6031 LANSDOWNE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 01 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Add dormer addition to the right side of roof."
+}
+{
+  "ADDRESS": "5820 NEOSHO ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 12 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Opening the interior wall splitting the kitchen and the dining room."
+}
+{
+  "ADDRESS": "5742 THOLOZAN AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 6,
-  "APPLICATIONDATE": "September, 08 2026 00:00:00",
-  "ISSUEDATE": "October, 17 2026 00:00:00",
-  "DAYSTOISSUE": 39,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "a Tuff Shed building to go behind a existing 10x12 Tuff Shed.  The new project will be 16x22 Tuff Shed standing 5 feet from south easement and 5 feet from the east fence-line."
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FENCE"
+}
+{
+  "ADDRESS": "5412-98 HAMPTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 13 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 34000.0000,
+  "APPLICATIONDESCRIPTION": "Repair existing US Bank after car damaged building"
+}
+{
+  "ADDRESS": "5316 MAPLE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "Deck Repair Per Plans"
+}
+{
+  "ADDRESS": "4532-40F SCOTT AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "November, 09 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "ADD AND RELOCATE FIRE SURPRESSION SYSTEM"
+}
+{
+  "ADDRESS": "4480 CLAYTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "November, 03 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 13,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "REWORK EXISTING FIRE SPRINKLER SYSTEM PER PLANS"
+}
+{
+  "ADDRESS": "4472 PENROSE ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Replace wood rear Deck"
+}
+{
+  "ADDRESS": "4159-61 LACLEDE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE DECK"
+}
+{
+  "ADDRESS": "3711 SALENA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' WOOD PRIVACY FENCE"
+}
+{
+  "ADDRESS": "3242 REGAL PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 06 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 70000.0000,
+  "APPLICATIONDESCRIPTION": "Finish the basement: New partition walls and finishes. Add a full bathroom, bedroom, and rec. room."
+}
+{
+  "ADDRESS": "2615 LOUISIANA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FENCE"
+}
+{
+  "ADDRESS": "1815 HICKORY ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 28 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 33000.0000,
+  "APPLICATIONDESCRIPTION": "Basement Bathroom Remodel: Frame, drywall, tape, and mud the new bathroom space. Remove and replace the shower and sink with a vanity. Install the toilet, new flooring, and add an exhaust fan. Build a wall in front of the left side of the furnace."
+}
+{
+  "ADDRESS": "16 ARUNDEL PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "October, 26 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 120000.0000,
+  "APPLICATIONDESCRIPTION": "REMOVE CURRENT GARAGE, BUILD NEW GARAGE"
+}
+{
+  "ADDRESS": "1431 MISSOURI AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "November, 16 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 26000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT RETAINING WALL"
+}
+{
+  "ADDRESS": "1101 N COMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "November, 03 2026 00:00:00",
+  "ISSUEDATE": "November, 16 2026 00:00:00",
+  "DAYSTOISSUE": 13,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Installation of a 2'' thick HDU post and panel sign"
+}
+{
+  "ADDRESS": "3924 PARKER AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "November, 11 2026 00:00:00",
+  "ISSUEDATE": "November, 15 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "2 car carport"
 }
 {
   "ADDRESS": "7327 PENNSYLVANIA AV",
