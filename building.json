@@ -1629,6 +1629,186 @@
   "APPLICATIONDESCRIPTION": "Boyer Fire shall cut, cap & make safe for the demolition of the existing piping and sprinklers within the existing 3rd floor space. Piping shall be demolished back to the existing 2 1/2\" riser located within the chase indicated on FP2. Upon completion of demolition BFP to tie into existing the 2 1/2\" riser with a new 4\" main that will serve the new 2\" branchlines and sprinklers within the new tray storage space. All work to be installed per FM global, NFPA 13, and state/local requirements. All demolition to be performed by others."
 }
 {
+  "ADDRESS": "7082 THOLOZAN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 21000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE DECK (REAR)"
+}
+{
+  "ADDRESS": "6024 MARQUETTE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 44000.0000,
+  "APPLICATIONDESCRIPTION": "FINISH BASEMENT"
+}
+{
+  "ADDRESS": "5609 S BROADWAY",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 05 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 19000.0000,
+  "APPLICATIONDESCRIPTION": "Replace deck in back yard"
+}
+{
+  "ADDRESS": "5252 LANSDOWNE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "Floor Supports"
+}
+{
+  "ADDRESS": "5200 N 2ND ST",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 02 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 76,
+  "ESTPROJECTCOST": 13000000.0000,
+  "APPLICATIONDESCRIPTION": "New warehouse storage building."
+}
+{
+  "ADDRESS": "4928-30 CHRISTY BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 29 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 35000.0000,
+  "APPLICATIONDESCRIPTION": "1. CONTRACTOR SHALL INSTALL NEW LOZIER FIXTURES<:PER THE FIXTURE PLAN, DRAWINGS, AND DETAILS AS<:SHOWN IN THIS SET. FIXTURES SHALL BE ANCHORED IN<:ACCORDANCE WITH PLANS. STORAGE HEIGHTS ARE<:LESS THAN 12'-0\".<:NO HIGH PILE STORAGE IS USED FOR THIS STORE.<:2. CONTRACTOR SHALL INSTALL AND ANCHOR<:PRE-FABRICATED FITTING ROOM AS SHOWN IN<:DRAWINGS AND DETAILS."
+}
+{
+  "ADDRESS": "4254 DELOR ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "November, 03 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Build Addition to Garage - Retroactive Permit Per Plans"
+}
+{
+  "ADDRESS": "4044 SHREVE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 25 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 84,
+  "ESTPROJECTCOST": 120000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "3666 BELLERIVE BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW REAR WOD DECK"
+}
+{
+  "ADDRESS": "3631 N UTAH PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 27000.0000,
+  "APPLICATIONDESCRIPTION": "foundation settlement repair (piering)"
+}
+{
+  "ADDRESS": "3200 CHILDRESS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE DECK (REAR)"
+}
+{
+  "ADDRESS": "3136 MINNESOTA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 11 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing tub, surround, and valve. Install new shower pan, shower valve, code approved Durarock backer, and acrylic surround. Install battery powered interconnected smoke/C02 alarms as required by code."
+}
+{
+  "ADDRESS": "2936 DODIER ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "Demolishing back porch"
+}
+{
+  "ADDRESS": "2847 WISCONSIN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "November, 10 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Fence install"
+}
+{
+  "ADDRESS": "2220-30 OLIVE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 61,
+  "ESTPROJECTCOST": 42000.0000,
+  "APPLICATIONDESCRIPTION": "Italian Soda Club is an exciting new café and casual counter-service restaurant concept designed to provide a clean, modern, welcoming environment for customers in the City of St. Louis.<:<:The project consists of the interior renovation and build-out of the existing commercial space for use as a café and counter-service food establishment. The completed space will feature a high-quality fit and finish throughout, with new commercial equipment, updated customer service areas, customer seating, and a new ADA-accessible restroom.<:<:Italian Soda Club will offer a variety of food and beverages, including:<:<:Espresso<:Cappuccino<:Freshly brewed coffee<:Tea<:Italian sodas and specialty beverages<:Toasted ravioli<:Hamburgers<:Sandwiches and other casual food items<:Additional café-style food and beverage selections<:<:The operation will primarily utilize counter service, with customers placing orders at the service counter and seating available for customers wishing to dine on the premises.<:<:The food preparation area will utilize new, modern commercial electric equipment, including a commercial electric ventless oven designed for restaurant food preparation. The project is being designed around efficient, clean, modern equipment and an organized commercial food-service layout.<:<:Improvements will include the installation and/or modification of appropriate electrical, plumbing, mechanical, lighting, food-service, and life-safety components as required for the new operation and as shown on the submitted plans.<:<:The goal of the project is to create a professionally designed, attractive, comfortable, and code-compliant establishment with an exceptionally high level of fit and finish.<:<:Plans are being submitted to the City of St. Louis for building permit review and approval prior to completion of construction and prior to requesting final commercial occupancy approval.<:<:Italian Soda Club is intended to be a fresh and exciting addition to the neighborhood—combining quality coffee, Italian sodas, casual food, comfortable seating, modern equipment, and an inviting atmosphere in a newly renovated commercial space."
+}
+{
+  "ADDRESS": "201 E QUINCY ST",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "September, 22 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 56,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "Agraform is constructing a new building on their campus and the project includes a new sanitary connection and new water service which cuts through 201 E Quincy"
+}
+{
+  "ADDRESS": "1807-17 GRAVOIS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "November, 13 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "We will begin by temporarily remove plywood as needed and reinstall it before leaving each day. Reset loose bricks, drill 6 inches into the existing foundation to install rebar for reinforcement, install a 4-inch block base, and add brick for the finished appearance. Install wall ties to secure and reinforce the connection between the block an brick wall."
+}
+{
+  "ADDRESS": "1222 ALLEN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 17000.0000,
+  "APPLICATIONDESCRIPTION": "INT DEMO & TEMP SHORELINE"
+}
+{
   "ADDRESS": "6031 LANSDOWNE AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
