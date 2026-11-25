@@ -749,6 +749,346 @@
   "APPLICATIONDESCRIPTION": "Interior/Exterior alteration per plans"
 }
 {
+  "ADDRESS": "7810 IVORY AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "November, 19 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Install 61 LF of 6-ft-tall treated wood privacy fence with 1 × 6 pickets and four core drills along the front fence line. Install one 6-ft-high × 10-ft-wide single wood gate within the new fence. No structural change."
+}
+{
+  "ADDRESS": "7015 BRUNO AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 08 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 16,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Demo and reconstruct front porch roof"
+}
+{
+  "ADDRESS": "5747 GRESHAM ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 23000.0000,
+  "APPLICATIONDESCRIPTION": "Installing a roof mounted 7.480kW solar system"
+}
+{
+  "ADDRESS": "5221-3 BISCHOFF AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 15 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "Interior gut rehabilitation of existing 1.5-story frame single-family residence (built 1921), approx 1,400 sq ft, front residence only: new interior framing and partitions, structural beam/post work per structural engineer's design, new basement stair, chimney removal with roof infill, window/door openings per plans. Work per architectural plans by Raymond Bucher, dated 11/11/2026."
+}
+{
+  "ADDRESS": "5217-9 ALASKA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 18 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 29000.0000,
+  "APPLICATIONDESCRIPTION": "both rear decks are to be removed and replaced. Supports will are to be upgraded to 6x6 post and 2x10 structural framing"
+}
+{
+  "ADDRESS": "4472-4 SHAW AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 18 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 37,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "non visible - roof solar mount project"
+}
+{
+  "ADDRESS": "4222 FOLSOM AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 16000.0000,
+  "APPLICATIONDESCRIPTION": "14x12 Deck"
+}
+{
+  "ADDRESS": "4205-17 FOREST PARK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "November, 10 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "Changing Acrylic Sign Face and Vinyl Lettering on Existing Monument"
+}
+{
+  "ADDRESS": "3895 HOLLY HILLS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "Addendum to permit #AB582400 (east property fence at driveway)"
+}
+{
+  "ADDRESS": "3631 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Install New Roof for Front Porch Per Plans"
+}
+{
+  "ADDRESS": "3624-6 ARSENAL ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "RELACE REAR WOOD DECK"
+}
+{
+  "ADDRESS": "3255 MORGAN FORD RD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 16000.0000,
+  "APPLICATIONDESCRIPTION": "Crawlspace Structural repair (Intellijacks)"
+}
+{
+  "ADDRESS": "2849 ACCOMAC ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 80000.0000,
+  "APPLICATIONDESCRIPTION": "INT RENOVATION"
+}
+{
+  "ADDRESS": "2706 ANN AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE DECK"
+}
+{
+  "ADDRESS": "2004 HEREFORD ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL METAL FENCE"
+}
+{
+  "ADDRESS": "200-20 N BROADWAY",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "October, 21 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 28000.0000,
+  "APPLICATIONDESCRIPTION": "Tenant finish build out.  Alteration to existing system on 19th and 20th Floors at MRHFM."
+}
+{
+  "ADDRESS": "1921 ALLEN AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 14 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "building a dwelling unit on top of current existing garage"
+}
+{
+  "ADDRESS": "1601-15 OHIO AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 07 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 140,
+  "ESTPROJECTCOST": 115000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Demolition Only"
+}
+{
+  "ADDRESS": "1028-30 CHILDRESS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 24 2026 00:00:00",
+  "ISSUEDATE": "November, 24 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 75000.0000,
+  "APPLICATIONDESCRIPTION": "rebuild the front porch"
+}
+{
+  "ADDRESS": "6127 LINDELL BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 10 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 13,
+  "ESTPROJECTCOST": 128000.0000,
+  "APPLICATIONDESCRIPTION": "Convert existing garage into an Art Studio."
+}
+{
+  "ADDRESS": "5469 NEOSHO ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "October, 11 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 43,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "To construct and update a Deck to enter the first level and be used as a sitting area on the second floor"
+}
+{
+  "ADDRESS": "5401 HOLLY HILLS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 20 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 48000.0000,
+  "APPLICATIONDESCRIPTION": "REMOVE EXISTING DECK AND INSTALL A NEW DECK ON THE BACK OF THE HOUSE."
+}
+{
+  "ADDRESS": "4942-66 PARKVIEW PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "October, 14 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 40,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing ceiling hung medical equipment, modify structural equipment supports, rework utilities, and re-install new medical equipment."
+}
+{
+  "ADDRESS": "4827 ANDERSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Alteration Kitchen and Bath"
+}
+{
+  "ADDRESS": "4615 WESTMINSTER PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 200000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT - REMODEL"
+}
+{
+  "ADDRESS": "4052 NEBRASKA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "DECK CONSTRUCTION - REAR / WOOD"
+}
+{
+  "ADDRESS": "3904 SCHILLER PL",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 17 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Remove and replace the existing deteriorated and unsafe exterior deck. Work to include demolition and disposal of damaged decking, railings, stairs, and structural components as necessary. Install new decking, framing, supports, stairs, and safety railings in accordance with applicable City of St. Louis building codes.<:<:The existing deck is in hazardous condition and requires immediate attention to ensure occupant safety."
+}
+{
+  "ADDRESS": "3159-61 S GRAND BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 21 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 216,
+  "ESTPROJECTCOST": 250000.0000,
+  "APPLICATIONDESCRIPTION": "Good morning!  Nehring Design has uploaded the revised drawings for permit.  Please change the architect to Nehring Design.  Thank you!<:<:**Matt Price updated Nehring Design as design professional on 8/24**"
+}
+{
+  "ADDRESS": "304 BATES ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "2201-37 PAPIN ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "November, 18 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 38000.0000,
+  "APPLICATIONDESCRIPTION": "Repair/replace retaining wall"
+}
+{
+  "ADDRESS": "1903-7 UNION BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FRONT PORCH ROOF"
+}
+{
+  "ADDRESS": "1426 HAMILTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 23 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 80000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALT"
+}
+{
+  "ADDRESS": "1059 RIVERVIEW BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "November, 20 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "Upon removal of the existing roofing shingles, previously concealed conditions were discovered. The existing roof consists of spaced 1\" x 8\" roof decking, with approximately 150 LF of damaged decking requiring replacement. The following additional work is necessary to restore the roof deck and provide a continuous sheathing substrate for the new roofing system: 1. Remove & Replace Damaged Spaced Decking • Remove and dispose of approximately 150 LF of damaged existing 1\" x 8\" spaced roof decking. • Supply and install new 1\" x 8\" decking boards in the affected areas. • Secure the replacement decking to the existing roof framing. 2. Supply & Install 7/16\" OSB Roof Sheathing • Supply and install approximately 50 sheets of 7/16\" OSB roof sheathing over the entire roof surface. • Properly fasten sheathing to the existing roof framing in accordance with applicable fastening requirements. • Provide a continuous roof deck suitable for installation of the new roofing system and compliance with applicable building code requirements."
+}
+{
+  "ADDRESS": "1 BARNES JEWISH HOSPITAL PLZ",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 14 2026 00:00:00",
+  "ISSUEDATE": "November, 23 2026 00:00:00",
+  "DAYSTOISSUE": 101,
+  "ESTPROJECTCOST": 10000000.0000,
+  "APPLICATIONDESCRIPTION": "Renovation of 15 OR rooms over 8 phases. Partial gut and replacement of new electrical, HVAC, FP and new structural booms and finishes upgrades."
+}
+{
   "ADDRESS": "713 LAMI ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 36,
@@ -2647,16 +2987,6 @@
   "DAYSTOISSUE": 5,
   "ESTPROJECTCOST": 31000.0000,
   "APPLICATIONDESCRIPTION": "REWORK EXISTING FIRE SPRINKLER SYSTEM PER PLANS"
-}
-{
-  "ADDRESS": "747 E TAYLOR AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 14 2026 00:00:00",
-  "ISSUEDATE": "November, 04 2026 00:00:00",
-  "DAYSTOISSUE": 21,
-  "ESTPROJECTCOST": 192000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL OVERHEAD  CRANE SYSTEM"
 }
 {
   "ADDRESS": "625 S SKINKER BLVD",
