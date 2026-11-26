@@ -609,146 +609,6 @@
   "APPLICATIONDESCRIPTION": "The installation of approximately 682 linear feet of 8ft tall chain link fencing. Install one manual rolling 30ft x 8ft gate and one 20ft x 8ft manual roll gate."
 }
 {
-  "ADDRESS": "912 HICKORY ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 16 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 10,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "Reroof"
-}
-{
-  "ADDRESS": "6960 SUTHERLAND AV",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 26 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 300000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW SINGLE FAMILY HOME"
-}
-{
-  "ADDRESS": "6949 MITCHELL AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "October, 26 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "Exterior Alterations- Front Porch Repair Per Plans"
-}
-{
-  "ADDRESS": "4970 OAKLAND AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 11 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 45,
-  "ESTPROJECTCOST": 700000.0000,
-  "APPLICATIONDESCRIPTION": "Retrofit of the existing Currigan Room in SLU High to make it a break room for the faculty and staff. This is a Level 2 Alteration per the IEBC."
-}
-{
-  "ADDRESS": "4619 DEWEY AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "October, 21 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 100.0000,
-  "APPLICATIONDESCRIPTION": "ADDENDUM TO BP-2657-26 FOR 4619 DEWEY AVE  - DECK PERMIT"
-}
-{
-  "ADDRESS": "4300-16 DUNCAN AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "August, 19 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "Remove Existing halo lit SIgn( WashU Public Health) , Add \"Bursky\" and rearrange form on line to two."
-}
-{
-  "ADDRESS": "4300 PLANNED INDUSTRIAL DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "October, 09 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 17,
-  "ESTPROJECTCOST": 108000.0000,
-  "APPLICATIONDESCRIPTION": "Installtion of additional pallet rack storage"
-}
-{
-  "ADDRESS": "4120 LINDELL BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "October, 07 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 1100.0000,
-  "APPLICATIONDESCRIPTION": "Panel Sign"
-}
-{
-  "ADDRESS": "3966 ARSENAL ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "October, 15 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 11,
-  "ESTPROJECTCOST": 13000.0000,
-  "APPLICATIONDESCRIPTION": "2 car carport"
-}
-{
-  "ADDRESS": "3634 WILMINGTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 25,
-  "APPLICATIONDATE": "October, 12 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 23000.0000,
-  "APPLICATIONDESCRIPTION": "Retaining Wall Replacement with Corner Stairs<:Remove and dispose of the existing concrete retaining wall and footing along approximately 70 linear feet. Excavate behind<:the wall as needed to accommodate the new wall system and drainage backfill. Haul away demolition debris and excess<:excavated soil.<:Prepare and compact an aggregate base, then install approximately 70 linear feet of segmental retaining wall with an exposed<:height of approximately 3.5 feet. Include a buried base course and matching caps secured with masonry adhesive.<:Install clean drainage rock behind the wall, drainage fabric to separate soil from the stone, and a perforated drainage pipe at<:the base with discharge to a suitable outlet.<:Construct approximately 3-foot-wide stairs at the corner of the wall to provide access between the lower and upper elevations.<:Integrate the stairs with the adjoining walls on the right side and rear. Construct a stepped retaining wall return along the<:exposed left side to contain and support the stair base. Install matching caps on the stair treads and exposed return wall.<:Complete final grading immediately adjacent to the work area and remove construction debris."
-}
-{
-  "ADDRESS": "2947 DR MARTIN LUTHER KING DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 24 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 185,
-  "ESTPROJECTCOST": 40000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT PARKING LOT"
-}
-{
-  "ADDRESS": "2307 S 10TH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "October, 15 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 11,
-  "ESTPROJECTCOST": 1500.0000,
-  "APPLICATIONDESCRIPTION": "Repair broken fence, upgrade with new 5'4\" privacy fence."
-}
-{
-  "ADDRESS": "2012 LAFAYETTE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 15 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 41,
-  "ESTPROJECTCOST": 40000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
-}
-{
-  "ADDRESS": "1906 PALM ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "September, 29 2026 00:00:00",
-  "ISSUEDATE": "October, 26 2026 00:00:00",
-  "DAYSTOISSUE": 27,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "Interior/Exterior alteration per plans"
-}
-{
   "ADDRESS": "7810 IVORY AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
@@ -3262,16 +3122,6 @@
   "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "August, 27 2026 00:00:00",
-  "ISSUEDATE": "November, 03 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "Addendum No. 1. Permit No. BP-2225-26"
-}
-{
-  "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "October, 01 2026 00:00:00",
   "ISSUEDATE": "November, 03 2026 00:00:00",
   "DAYSTOISSUE": 33,
@@ -3287,6 +3137,16 @@
   "DAYSTOISSUE": 33,
   "ESTPROJECTCOST": 350000.0000,
   "APPLICATIONDESCRIPTION": "PHASE 2 OF THIS PROJECT INVOLVES THE EXTERIOR AND INTERIOR RENOVATION OF THE BUILDING AT 4223 W DR. MARTIN LUTHER KING DRIVE. <:<:WHILE PHASE 1 INVOLVED STRUCTURAL REMEDIATION WORK ON THE OVERALL BUILDING, PHASE 2 INVOLVES THE WHITE BOXING OF THE OVERALL BUILDING, NEW STAIRWELLS, AN ELEVATOR, AND NEW DOORS AND WINDOWS.<:<:ON THE FIRST FLOOR, WORK CONSITS OF NEW ENTRANCES ON FRONT AND REAR SIDES OF THE BUILDINGS, A RECEPTION SPACE, PRIVATE PARKING GARAGE, NEW RESTROOMS, SPACE FOR A FUTURE MAKER SPACE, SPACE FOR FUTURE SHELL SPACE, AND SPACE FOR A FUTURE KITCHEN.<:<:ON THE SECOND FLOOR, WORK CONSISTS OF NEW OFFICE SPACE, NEW RESTROOMS, SPACE FOR FUTURE OFFICES, AND A CHAIR LIFT.<:<:Mechanical, electrical, and plumbing work to be done by design-build contractor. Design-build contractor will obtain their own permits."
+}
+{
+  "ADDRESS": "4223-9 W DR MARTIN LUTHER KING DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "August, 27 2026 00:00:00",
+  "ISSUEDATE": "November, 03 2026 00:00:00",
+  "DAYSTOISSUE": 68,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "Addendum No. 1. Permit No. BP-2225-26"
 }
 {
   "ADDRESS": "3259 INDIANA AV",
